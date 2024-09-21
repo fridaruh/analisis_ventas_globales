@@ -1,0 +1,2001 @@
+Region,Product,Date,Sales,Profit,Quantity,Customer_Satisfaction
+América del Sur,Producto D,2023-01-01,47132,5589,84,4
+África,Producto C,2023-01-01,24864,19453,51,3
+Asia,Producto D,2023-01-01,48829,-3343,431,4
+África,Producto C,2023-01-01,31750,13925,333,3
+África,Producto B,2023-01-01,11576,1763,190,3
+Europa,Producto A,2023-01-01,17566,14459,42,5
+Asia,Producto B,2023-01-01,8190,-1836,80,2
+Asia,Producto A,2023-01-01,24071,13437,65,2
+Asia,Producto A,2023-01-01,39333,3479,114,3
+África,Producto A,2023-01-01,16369,737,209,2
+América del Sur,Producto B,2023-01-01,25035,14601,110,1
+Asia,Producto A,2023-01-01,2589,12831,265,3
+África,Producto B,2023-01-01,26235,1009,316,2
+Europa,Producto D,2023-01-01,1159,11991,83,1
+América del Sur,Producto C,2023-01-01,13145,-448,180,5
+Europa,Producto C,2023-01-01,16373,13148,386,2
+América del Sur,Producto A,2023-01-01,32921,4417,152,1
+África,Producto B,2023-01-01,40323,4221,175,4
+América del Norte,Producto C,2023-01-01,17237,-2329,408,4
+América del Sur,Producto B,2023-01-01,42971,1519,270,1
+Europa,Producto B,2023-01-01,9244,-1038,230,3
+África,Producto A,2023-01-01,15743,7734,92,3
+América del Sur,Producto C,2023-01-01,32566,8122,191,2
+América del Norte,Producto A,2023-01-01,47101,14561,316,4
+América del Norte,Producto A,2023-01-02,47109,-1278,19,3
+Asia,Producto C,2023-01-02,19691,-94,405,3
+Asia,Producto C,2023-01-02,34996,2263,13,4
+Europa,Producto D,2023-01-02,6590,8699,360,5
+América del Sur,Producto D,2023-01-02,6585,16438,411,3
+América del Sur,Producto B,2023-01-02,10227,6088,345,1
+Asia,Producto C,2023-01-02,29278,-4192,497,2
+América del Sur,Producto D,2023-01-02,39814,4170,301,3
+América del Sur,Producto B,2023-01-02,13237,11260,290,3
+América del Norte,Producto B,2023-01-02,16649,12109,224,5
+Asia,Producto B,2023-01-02,38713,5693,469,1
+África,Producto D,2023-01-02,8927,2701,107,2
+Asia,Producto C,2023-01-02,46409,12600,429,3
+África,Producto A,2023-01-02,49766,15435,110,2
+América del Norte,Producto B,2023-01-02,47154,13581,460,4
+Europa,Producto D,2023-01-02,8016,9191,18,3
+América del Sur,Producto D,2023-01-02,15027,14190,70,3
+América del Norte,Producto A,2023-01-02,49688,12356,318,4
+América del Sur,Producto A,2023-01-02,25142,17018,155,5
+Europa,Producto D,2023-01-02,47520,8704,436,3
+Europa,Producto C,2023-01-02,24545,18867,428,2
+América del Norte,Producto A,2023-01-02,32897,-2877,72,1
+Europa,Producto D,2023-01-02,4167,6533,130,2
+África,Producto A,2023-01-02,45757,11608,235,5
+Europa,Producto C,2023-01-03,27917,9448,114,1
+América del Sur,Producto B,2023-01-03,23736,9586,471,2
+América del Sur,Producto A,2023-01-03,28990,-3186,269,2
+América del Sur,Producto C,2023-01-03,15087,8001,358,4
+América del Sur,Producto D,2023-01-03,23440,12490,434,5
+África,Producto A,2023-01-03,36205,11508,264,4
+Asia,Producto A,2023-01-03,16275,14630,438,1
+América del Norte,Producto D,2023-01-03,6276,8380,443,4
+América del Sur,Producto B,2023-01-03,42627,10406,216,5
+Europa,Producto D,2023-01-03,41586,-2069,37,3
+América del Sur,Producto A,2023-01-03,38496,8567,179,3
+Europa,Producto D,2023-01-03,20008,9038,345,1
+Europa,Producto C,2023-01-03,6738,7317,85,3
+América del Sur,Producto D,2023-01-03,33402,-2029,125,4
+África,Producto A,2023-01-03,6793,-2983,78,1
+Europa,Producto D,2023-01-03,38291,18799,363,5
+Europa,Producto B,2023-01-03,6571,-2585,243,1
+América del Sur,Producto D,2023-01-03,32331,14480,10,1
+Europa,Producto B,2023-01-03,17209,-3391,176,2
+Europa,Producto C,2023-01-03,49014,-4283,361,2
+América del Sur,Producto B,2023-01-03,26394,14945,227,1
+América del Sur,Producto D,2023-01-03,44148,7662,282,3
+América del Norte,Producto A,2023-01-03,26682,1782,377,2
+África,Producto B,2023-01-03,3224,-3952,260,5
+África,Producto C,2023-01-04,42157,6618,356,4
+Europa,Producto B,2023-01-04,49695,3307,353,2
+África,Producto B,2023-01-04,45452,2905,428,1
+Europa,Producto B,2023-01-04,44408,4993,183,3
+América del Norte,Producto C,2023-01-04,33441,5338,179,4
+América del Sur,Producto D,2023-01-04,42430,578,255,2
+América del Sur,Producto B,2023-01-04,40129,8834,432,3
+América del Sur,Producto B,2023-01-04,35716,13004,99,3
+África,Producto A,2023-01-04,45859,1548,58,3
+América del Norte,Producto C,2023-01-04,27586,2381,455,1
+África,Producto B,2023-01-04,45760,16164,303,5
+África,Producto C,2023-01-04,24478,15176,416,3
+América del Norte,Producto B,2023-01-04,7318,-2059,159,4
+América del Norte,Producto D,2023-01-04,29694,695,141,2
+América del Norte,Producto D,2023-01-04,21180,1401,442,4
+América del Norte,Producto B,2023-01-04,13180,10179,68,1
+América del Sur,Producto D,2023-01-04,34002,9456,466,1
+Asia,Producto B,2023-01-04,16372,8097,333,4
+Asia,Producto D,2023-01-04,30796,1197,208,5
+América del Norte,Producto A,2023-01-04,25427,450,224,1
+Asia,Producto A,2023-01-04,34290,19816,395,1
+Asia,Producto A,2023-01-04,29099,17258,58,4
+América del Norte,Producto C,2023-01-04,46486,12937,481,1
+Asia,Producto C,2023-01-04,10821,12396,241,5
+África,Producto A,2023-01-05,6832,3378,256,5
+Europa,Producto C,2023-01-05,13820,-3119,391,5
+Europa,Producto D,2023-01-05,17211,1799,488,2
+América del Norte,Producto B,2023-01-05,40890,9597,248,5
+América del Sur,Producto B,2023-01-05,6842,8675,424,5
+América del Norte,Producto B,2023-01-05,2316,-414,376,2
+América del Sur,Producto A,2023-01-05,46968,3430,177,3
+Europa,Producto C,2023-01-05,18508,17831,57,1
+América del Norte,Producto D,2023-01-05,23005,-2655,60,5
+África,Producto D,2023-01-05,16206,11459,308,1
+Asia,Producto A,2023-01-05,19971,4548,107,4
+América del Sur,Producto D,2023-01-05,26599,877,448,1
+Asia,Producto D,2023-01-05,23056,1785,225,2
+Asia,Producto D,2023-01-05,2378,10833,186,1
+América del Norte,Producto D,2023-01-05,2519,-78,389,1
+Asia,Producto C,2023-01-05,23161,19474,483,1
+África,Producto D,2023-01-05,41703,13714,89,3
+Asia,Producto B,2023-01-05,39861,-314,194,3
+América del Norte,Producto A,2023-01-05,6355,9407,376,4
+África,Producto C,2023-01-05,10083,13286,470,2
+Europa,Producto D,2023-01-05,39342,7205,408,1
+Asia,Producto C,2023-01-05,21456,16054,36,1
+América del Norte,Producto D,2023-01-05,14324,18527,461,1
+Europa,Producto B,2023-01-05,3257,8179,473,1
+Europa,Producto A,2023-01-06,28364,13443,457,3
+América del Sur,Producto D,2023-01-06,25972,11524,487,4
+África,Producto D,2023-01-06,47179,13173,423,5
+Asia,Producto D,2023-01-06,27654,-4984,429,2
+América del Norte,Producto D,2023-01-06,16233,8374,204,1
+América del Sur,Producto A,2023-01-06,16887,11848,223,4
+África,Producto A,2023-01-06,30320,15855,378,5
+América del Sur,Producto B,2023-01-06,21808,13211,351,4
+África,Producto A,2023-01-06,31154,956,123,3
+África,Producto D,2023-01-06,35773,11473,251,5
+Asia,Producto B,2023-01-06,28747,-185,133,4
+África,Producto B,2023-01-06,11860,14235,314,3
+América del Sur,Producto B,2023-01-06,43838,-2157,85,4
+África,Producto D,2023-01-06,43156,10972,320,4
+Asia,Producto C,2023-01-06,19156,17927,478,5
+Asia,Producto D,2023-01-06,21360,17285,321,3
+América del Sur,Producto A,2023-01-06,19135,12353,205,1
+Europa,Producto A,2023-01-06,26351,-3906,360,2
+Europa,Producto D,2023-01-06,31499,1124,53,5
+África,Producto D,2023-01-06,48377,18731,424,3
+América del Norte,Producto B,2023-01-06,24554,14579,195,4
+África,Producto D,2023-01-06,20604,-3596,352,3
+América del Sur,Producto B,2023-01-06,17923,18324,255,2
+América del Sur,Producto A,2023-01-06,48591,15674,446,2
+América del Sur,Producto B,2023-01-07,9547,-1018,93,1
+América del Sur,Producto D,2023-01-07,45283,7515,216,1
+América del Sur,Producto A,2023-01-07,34002,10790,160,2
+Asia,Producto C,2023-01-07,15562,7205,165,5
+Europa,Producto B,2023-01-07,8480,16939,25,5
+América del Sur,Producto A,2023-01-07,27672,19338,174,4
+América del Norte,Producto B,2023-01-07,5213,7748,414,1
+América del Norte,Producto A,2023-01-07,11293,16097,472,4
+América del Norte,Producto A,2023-01-07,35441,-1908,154,1
+América del Norte,Producto B,2023-01-07,3100,15543,46,2
+Asia,Producto C,2023-01-07,45617,17692,342,5
+América del Norte,Producto A,2023-01-07,29172,18862,412,5
+América del Sur,Producto A,2023-01-07,21132,19860,423,2
+África,Producto A,2023-01-07,19199,8971,54,4
+América del Norte,Producto C,2023-01-07,37609,9616,411,4
+Asia,Producto C,2023-01-07,43965,-67,215,3
+Asia,Producto D,2023-01-07,9016,-74,71,1
+América del Norte,Producto B,2023-01-07,40779,-1031,429,4
+África,Producto C,2023-01-07,38261,-2035,365,2
+América del Norte,Producto B,2023-01-07,32881,-681,477,4
+Asia,Producto D,2023-01-07,18058,3975,317,5
+Europa,Producto B,2023-01-07,25472,2108,28,1
+América del Sur,Producto C,2023-01-07,42346,4141,374,3
+Asia,Producto B,2023-01-07,35926,15323,309,1
+América del Norte,Producto C,2023-01-08,35832,11428,16,5
+América del Sur,Producto B,2023-01-08,37021,-3190,258,5
+América del Norte,Producto C,2023-01-08,25087,15950,437,5
+América del Norte,Producto C,2023-01-08,13828,5273,126,5
+Europa,Producto B,2023-01-08,32128,4021,77,2
+América del Sur,Producto D,2023-01-08,2401,13293,43,3
+América del Sur,Producto A,2023-01-08,20643,1364,203,5
+Europa,Producto D,2023-01-08,16193,-2419,334,5
+Asia,Producto B,2023-01-08,27853,-4309,64,4
+América del Norte,Producto D,2023-01-08,45864,-4069,275,3
+África,Producto C,2023-01-08,21307,8128,489,1
+América del Norte,Producto A,2023-01-08,37982,19294,51,3
+América del Norte,Producto B,2023-01-08,20611,9226,306,3
+Asia,Producto B,2023-01-08,44791,8861,470,3
+América del Norte,Producto B,2023-01-08,12950,10475,240,5
+Europa,Producto A,2023-01-08,11704,17766,462,5
+Europa,Producto C,2023-01-08,44111,-1594,387,2
+América del Sur,Producto B,2023-01-08,12867,3339,403,1
+África,Producto D,2023-01-08,3745,12416,19,4
+América del Norte,Producto B,2023-01-08,4866,12695,367,3
+América del Norte,Producto B,2023-01-08,33245,3579,484,1
+Asia,Producto B,2023-01-08,45724,-1879,453,1
+Europa,Producto B,2023-01-08,6818,13257,137,2
+África,Producto C,2023-01-08,49861,18165,188,4
+América del Sur,Producto D,2023-01-09,31116,10946,414,3
+Europa,Producto C,2023-01-09,16493,-1252,401,4
+América del Sur,Producto D,2023-01-09,29038,-4723,202,2
+Asia,Producto B,2023-01-09,21447,13243,101,5
+Asia,Producto A,2023-01-09,31431,6563,378,1
+América del Norte,Producto C,2023-01-09,18908,17313,240,3
+África,Producto A,2023-01-09,30336,1792,87,5
+América del Sur,Producto C,2023-01-09,41992,16097,94,2
+Europa,Producto B,2023-01-09,5025,8918,39,4
+Asia,Producto C,2023-01-09,21093,5374,222,1
+América del Norte,Producto B,2023-01-09,7155,-325,58,3
+América del Norte,Producto C,2023-01-09,47607,-3830,274,5
+América del Sur,Producto B,2023-01-09,34487,3681,154,5
+Asia,Producto B,2023-01-09,48658,5717,78,1
+África,Producto D,2023-01-09,21963,7450,67,4
+Asia,Producto B,2023-01-09,21936,5680,194,2
+América del Sur,Producto D,2023-01-09,5426,5068,71,4
+América del Sur,Producto B,2023-01-09,24303,16692,488,4
+Asia,Producto A,2023-01-09,46280,-2538,317,4
+América del Sur,Producto B,2023-01-09,28606,8650,454,1
+Asia,Producto A,2023-01-09,48832,-4713,305,1
+Europa,Producto A,2023-01-09,29151,17337,175,2
+Asia,Producto B,2023-01-09,14767,15666,180,4
+Asia,Producto A,2023-01-09,12308,13291,72,1
+América del Sur,Producto D,2023-01-10,45245,-3839,156,2
+América del Sur,Producto C,2023-01-10,46671,11513,493,2
+América del Norte,Producto B,2023-01-10,25770,17721,315,4
+América del Norte,Producto A,2023-01-10,29572,-2637,170,3
+Europa,Producto B,2023-01-10,42448,19535,150,4
+América del Norte,Producto D,2023-01-10,3204,983,343,3
+Asia,Producto B,2023-01-10,28233,11527,106,2
+América del Sur,Producto B,2023-01-10,22729,3207,455,1
+América del Norte,Producto A,2023-01-10,32131,18853,230,5
+América del Norte,Producto D,2023-01-10,34870,9758,52,2
+Europa,Producto C,2023-01-10,39011,-4756,442,1
+Europa,Producto C,2023-01-10,40382,12310,301,2
+Asia,Producto A,2023-01-10,42475,-1822,387,4
+América del Sur,Producto B,2023-01-10,47681,-2824,117,3
+Europa,Producto A,2023-01-10,22607,2,275,2
+América del Norte,Producto A,2023-01-10,25968,-4114,104,1
+América del Sur,Producto A,2023-01-10,34398,19916,271,4
+América del Sur,Producto B,2023-01-10,12908,14782,322,5
+América del Norte,Producto D,2023-01-10,27423,8721,394,4
+Europa,Producto A,2023-01-10,44615,7142,80,3
+América del Norte,Producto B,2023-01-10,10171,19881,451,4
+América del Sur,Producto D,2023-01-10,13721,-2346,228,5
+África,Producto A,2023-01-10,17616,6984,30,1
+África,Producto C,2023-01-10,43512,18776,101,2
+Asia,Producto D,2023-01-11,39458,12755,136,3
+América del Norte,Producto A,2023-01-11,47169,2135,89,5
+América del Norte,Producto D,2023-01-11,8659,-4680,321,3
+Asia,Producto D,2023-01-11,44369,-346,247,4
+Asia,Producto D,2023-01-11,12704,16684,480,3
+Asia,Producto D,2023-01-11,33793,18145,381,5
+América del Sur,Producto D,2023-01-11,49152,18238,413,2
+América del Norte,Producto D,2023-01-11,47473,16889,495,2
+América del Sur,Producto A,2023-01-11,32226,11131,191,3
+Asia,Producto C,2023-01-11,24852,5770,34,1
+América del Norte,Producto B,2023-01-11,33082,1553,165,3
+América del Sur,Producto D,2023-01-11,23794,15426,14,4
+América del Sur,Producto B,2023-01-11,42420,6559,129,2
+Asia,Producto A,2023-01-11,14379,4009,286,2
+América del Norte,Producto D,2023-01-11,8006,8482,27,2
+Asia,Producto C,2023-01-11,9682,2498,440,1
+América del Norte,Producto B,2023-01-11,34840,1636,207,1
+África,Producto D,2023-01-11,33430,2362,66,5
+Europa,Producto A,2023-01-11,24091,11395,102,3
+Europa,Producto C,2023-01-11,33983,11578,28,3
+Europa,Producto B,2023-01-11,24989,-2463,393,4
+Asia,Producto B,2023-01-11,10915,14226,362,2
+África,Producto D,2023-01-11,43552,10216,202,1
+América del Norte,Producto C,2023-01-11,19990,13613,246,4
+América del Sur,Producto C,2023-01-12,25734,-1991,396,4
+América del Norte,Producto C,2023-01-12,15824,19368,435,1
+América del Sur,Producto C,2023-01-12,37081,9209,286,3
+América del Norte,Producto A,2023-01-12,12033,10675,236,2
+África,Producto C,2023-01-12,43736,10029,242,3
+América del Sur,Producto B,2023-01-12,17241,-2923,49,4
+Asia,Producto B,2023-01-12,6939,8907,332,2
+América del Norte,Producto A,2023-01-12,48464,19229,162,5
+América del Norte,Producto B,2023-01-12,48562,-1133,136,4
+América del Sur,Producto B,2023-01-12,36063,11152,246,3
+Asia,Producto C,2023-01-12,35464,-127,495,3
+Asia,Producto B,2023-01-12,12185,3635,64,3
+África,Producto A,2023-01-12,28045,-4703,477,1
+Asia,Producto C,2023-01-12,45769,8095,445,4
+Asia,Producto D,2023-01-12,48118,17240,181,2
+Asia,Producto C,2023-01-12,20167,4036,118,3
+Europa,Producto A,2023-01-12,37412,-3985,363,3
+África,Producto C,2023-01-12,22625,-3616,478,1
+América del Norte,Producto C,2023-01-12,40188,3745,193,2
+América del Sur,Producto A,2023-01-12,28076,13734,448,4
+América del Norte,Producto C,2023-01-12,45605,12653,377,5
+África,Producto A,2023-01-12,20029,-3740,480,1
+América del Sur,Producto A,2023-01-12,23973,2701,207,4
+África,Producto D,2023-01-12,40121,19760,380,5
+Asia,Producto B,2023-01-13,32433,15947,382,3
+América del Sur,Producto B,2023-01-13,44309,18281,470,3
+Asia,Producto C,2023-01-13,2932,17056,96,2
+América del Norte,Producto C,2023-01-13,45254,5401,210,5
+América del Norte,Producto D,2023-01-13,2757,10519,346,3
+América del Sur,Producto D,2023-01-13,31722,16977,331,3
+América del Sur,Producto D,2023-01-13,38853,6864,284,2
+África,Producto A,2023-01-13,39405,10681,220,4
+África,Producto D,2023-01-13,2116,17539,400,3
+Asia,Producto D,2023-01-13,44527,543,127,1
+América del Sur,Producto C,2023-01-13,12691,18624,200,1
+América del Norte,Producto D,2023-01-13,1492,16067,51,4
+África,Producto A,2023-01-13,28882,13265,51,5
+África,Producto A,2023-01-13,9811,7488,324,2
+América del Norte,Producto C,2023-01-13,28808,5079,285,1
+África,Producto D,2023-01-13,25272,5744,338,1
+Asia,Producto D,2023-01-13,29399,-1191,26,4
+América del Sur,Producto A,2023-01-13,7474,17191,292,5
+América del Norte,Producto D,2023-01-13,27956,16267,440,5
+América del Sur,Producto D,2023-01-13,48153,2206,267,4
+África,Producto D,2023-01-13,43506,15539,72,1
+África,Producto B,2023-01-13,14979,16057,71,2
+América del Norte,Producto C,2023-01-13,45523,8746,109,1
+Asia,Producto B,2023-01-13,43565,10995,28,5
+Europa,Producto C,2023-01-14,29328,11035,26,1
+América del Norte,Producto A,2023-01-14,48375,6671,334,2
+Europa,Producto D,2023-01-14,13867,8210,432,3
+Europa,Producto C,2023-01-14,26851,12793,475,1
+Asia,Producto B,2023-01-14,32279,197,382,4
+Europa,Producto D,2023-01-14,31527,10553,255,3
+Europa,Producto A,2023-01-14,8866,2452,260,4
+Asia,Producto C,2023-01-14,16449,3718,464,4
+Europa,Producto C,2023-01-14,11685,9859,90,4
+Europa,Producto C,2023-01-14,24544,-2828,48,1
+Europa,Producto D,2023-01-14,6451,8158,45,5
+América del Norte,Producto B,2023-01-14,22642,11663,433,3
+América del Norte,Producto B,2023-01-14,42316,15361,438,2
+América del Norte,Producto C,2023-01-14,40954,14053,397,5
+Asia,Producto A,2023-01-14,39870,6085,495,1
+África,Producto A,2023-01-14,32030,19209,418,4
+Europa,Producto B,2023-01-14,31873,-1019,206,2
+Europa,Producto A,2023-01-14,1619,16153,167,3
+Asia,Producto B,2023-01-14,34650,247,213,5
+Europa,Producto C,2023-01-14,26372,5553,205,5
+América del Norte,Producto B,2023-01-14,4642,15811,225,2
+África,Producto B,2023-01-14,29001,1135,294,1
+América del Sur,Producto C,2023-01-14,35064,573,466,3
+Europa,Producto A,2023-01-14,30290,15515,205,2
+América del Norte,Producto B,2023-01-15,15122,8731,316,4
+América del Sur,Producto B,2023-01-15,25820,2189,161,3
+África,Producto C,2023-01-15,3895,9541,23,5
+América del Sur,Producto A,2023-01-15,6366,5878,334,2
+América del Norte,Producto B,2023-01-15,9711,6087,155,5
+América del Sur,Producto C,2023-01-15,20596,8667,435,5
+Asia,Producto B,2023-01-15,19793,15919,66,5
+América del Sur,Producto D,2023-01-15,9199,-2224,220,1
+Europa,Producto C,2023-01-15,11717,4311,277,5
+Europa,Producto A,2023-01-15,37191,2697,219,4
+Asia,Producto A,2023-01-15,11211,9629,26,4
+América del Norte,Producto A,2023-01-15,46550,3386,295,3
+Europa,Producto A,2023-01-15,24360,12046,353,5
+África,Producto B,2023-01-15,22542,3044,212,5
+Europa,Producto B,2023-01-15,32312,15602,108,2
+Europa,Producto A,2023-01-15,46242,4615,288,1
+América del Norte,Producto A,2023-01-15,37435,10034,218,3
+América del Sur,Producto A,2023-01-15,29247,60,138,5
+Europa,Producto B,2023-01-15,23357,5900,344,2
+Asia,Producto A,2023-01-15,42045,17258,297,1
+América del Sur,Producto A,2023-01-15,28691,581,261,3
+África,Producto D,2023-01-15,13424,-2986,274,3
+América del Norte,Producto D,2023-01-15,19852,15173,280,5
+África,Producto A,2023-01-15,23601,7997,421,3
+América del Sur,Producto C,2023-01-16,19020,5635,417,2
+América del Sur,Producto A,2023-01-16,9155,8648,197,3
+América del Sur,Producto D,2023-01-16,4583,2148,428,4
+África,Producto C,2023-01-16,16515,19150,223,2
+América del Sur,Producto C,2023-01-16,37777,13748,292,1
+África,Producto A,2023-01-16,20710,9022,220,1
+América del Sur,Producto D,2023-01-16,44178,15013,374,5
+Asia,Producto D,2023-01-16,25532,919,85,5
+América del Sur,Producto C,2023-01-16,19601,10886,157,4
+África,Producto A,2023-01-16,5967,17059,330,1
+Europa,Producto B,2023-01-16,19753,1638,222,1
+América del Sur,Producto B,2023-01-16,21022,-349,442,1
+Europa,Producto D,2023-01-16,44463,-4391,118,1
+Asia,Producto B,2023-01-16,10135,2940,138,3
+América del Norte,Producto D,2023-01-16,6722,5348,19,2
+Asia,Producto D,2023-01-16,28413,-1134,56,2
+América del Sur,Producto D,2023-01-16,28236,11755,388,4
+Europa,Producto B,2023-01-16,16514,18382,324,3
+Europa,Producto D,2023-01-16,44896,11999,105,1
+África,Producto C,2023-01-16,38212,18295,455,1
+Europa,Producto A,2023-01-16,41386,17394,112,5
+África,Producto A,2023-01-16,21331,-2747,389,5
+América del Norte,Producto D,2023-01-16,19060,-58,351,4
+América del Sur,Producto A,2023-01-16,2196,7330,155,1
+África,Producto B,2023-01-17,13297,-4136,377,4
+América del Norte,Producto B,2023-01-17,3787,-3732,439,3
+Europa,Producto A,2023-01-17,24816,2454,425,2
+Europa,Producto B,2023-01-17,41695,8666,36,1
+América del Norte,Producto A,2023-01-17,20702,15955,229,3
+Europa,Producto A,2023-01-17,26242,7370,27,1
+América del Norte,Producto A,2023-01-17,3176,229,176,5
+África,Producto D,2023-01-17,21127,11309,442,4
+África,Producto A,2023-01-17,42560,13621,486,5
+América del Norte,Producto D,2023-01-17,28228,-946,91,2
+África,Producto A,2023-01-17,21208,-4065,437,5
+África,Producto A,2023-01-17,29482,7172,81,1
+África,Producto A,2023-01-17,10171,17778,319,5
+Asia,Producto B,2023-01-17,36219,19275,488,1
+América del Sur,Producto D,2023-01-17,34396,5530,263,2
+Europa,Producto D,2023-01-17,43589,10560,171,5
+Asia,Producto A,2023-01-17,41546,11156,336,4
+África,Producto A,2023-01-17,4696,11709,429,4
+América del Norte,Producto B,2023-01-17,21058,4726,411,4
+África,Producto B,2023-01-17,21313,2774,47,5
+América del Sur,Producto B,2023-01-17,20149,15245,452,5
+África,Producto D,2023-01-17,46740,-3015,402,5
+América del Norte,Producto D,2023-01-17,42075,9252,210,1
+América del Sur,Producto D,2023-01-17,5956,16316,209,2
+África,Producto A,2023-01-18,11195,-397,264,4
+América del Sur,Producto D,2023-01-18,18076,14162,188,1
+Europa,Producto C,2023-01-18,2105,10960,44,4
+Europa,Producto C,2023-01-18,16417,4462,91,1
+África,Producto B,2023-01-18,25729,9166,398,5
+América del Sur,Producto D,2023-01-18,47956,2754,407,4
+América del Norte,Producto C,2023-01-18,31099,9246,229,5
+África,Producto B,2023-01-18,33598,-922,167,4
+Europa,Producto D,2023-01-18,30961,7853,13,3
+Europa,Producto A,2023-01-18,13602,12751,176,1
+África,Producto C,2023-01-18,10256,-958,477,3
+América del Sur,Producto A,2023-01-18,21584,11284,457,1
+Europa,Producto D,2023-01-18,47980,9389,418,2
+América del Sur,Producto C,2023-01-18,35681,-2425,421,4
+Europa,Producto D,2023-01-18,26792,1754,213,2
+Europa,Producto A,2023-01-18,22904,12965,203,2
+Asia,Producto C,2023-01-18,44361,-3014,244,1
+Europa,Producto A,2023-01-18,35540,13624,215,3
+América del Norte,Producto D,2023-01-18,27536,15350,159,5
+África,Producto D,2023-01-18,20164,18988,168,1
+África,Producto A,2023-01-18,13996,10470,288,5
+América del Sur,Producto C,2023-01-18,3871,19704,313,2
+Europa,Producto A,2023-01-18,47002,968,413,5
+América del Norte,Producto D,2023-01-18,23626,2493,390,3
+América del Sur,Producto A,2023-01-19,11521,-897,175,1
+Asia,Producto D,2023-01-19,44410,-2924,320,3
+América del Sur,Producto A,2023-01-19,2132,16615,77,3
+América del Sur,Producto C,2023-01-19,34467,-2006,472,1
+Europa,Producto C,2023-01-19,15534,-1256,97,3
+Asia,Producto A,2023-01-19,24854,9466,226,4
+América del Sur,Producto A,2023-01-19,43998,9523,10,4
+América del Norte,Producto C,2023-01-19,40065,594,144,4
+América del Norte,Producto D,2023-01-19,46607,2531,194,5
+África,Producto C,2023-01-19,8812,2371,360,3
+Asia,Producto D,2023-01-19,5557,9547,149,1
+Asia,Producto A,2023-01-19,3179,13028,115,1
+África,Producto A,2023-01-19,44798,-1856,142,5
+América del Sur,Producto D,2023-01-19,10065,8990,117,1
+Asia,Producto A,2023-01-19,9275,9083,187,4
+América del Norte,Producto D,2023-01-19,48857,11626,307,3
+América del Norte,Producto B,2023-01-19,36948,15469,367,1
+Europa,Producto C,2023-01-19,21700,2954,389,1
+Asia,Producto B,2023-01-19,40464,2269,405,2
+América del Sur,Producto D,2023-01-19,43351,2130,368,2
+África,Producto C,2023-01-19,28794,1828,155,2
+África,Producto D,2023-01-19,29783,19746,459,3
+América del Sur,Producto C,2023-01-19,17998,3844,83,4
+Europa,Producto C,2023-01-19,14869,9220,472,4
+África,Producto C,2023-01-20,45525,1331,487,4
+Asia,Producto C,2023-01-20,29152,14896,117,3
+Europa,Producto D,2023-01-20,21954,8397,131,3
+Asia,Producto C,2023-01-20,32555,12883,26,2
+América del Norte,Producto C,2023-01-20,17654,5291,205,1
+Europa,Producto B,2023-01-20,46026,13542,336,5
+África,Producto A,2023-01-20,36236,5164,327,5
+Europa,Producto A,2023-01-20,47976,16546,306,1
+Europa,Producto B,2023-01-20,16042,5450,488,2
+Europa,Producto B,2023-01-20,26966,15423,261,1
+Europa,Producto D,2023-01-20,49407,-2965,496,1
+Asia,Producto D,2023-01-20,45314,6463,128,5
+América del Norte,Producto D,2023-01-20,46095,2977,171,2
+América del Sur,Producto B,2023-01-20,15270,12241,207,3
+Europa,Producto B,2023-01-20,31908,15207,495,5
+África,Producto C,2023-01-20,16523,18154,54,3
+Europa,Producto D,2023-01-20,48068,7182,323,2
+África,Producto D,2023-01-20,20991,-4702,188,1
+Asia,Producto D,2023-01-20,11775,18628,391,4
+África,Producto A,2023-01-20,13265,-4077,427,4
+América del Sur,Producto C,2023-01-20,20459,15616,53,2
+América del Norte,Producto D,2023-01-20,17673,8331,280,4
+África,Producto D,2023-01-20,28056,15690,87,3
+África,Producto D,2023-01-20,7614,14183,335,4
+América del Norte,Producto A,2023-01-21,37020,1578,187,2
+América del Sur,Producto A,2023-01-21,8415,-125,366,2
+Europa,Producto B,2023-01-21,24155,16710,425,3
+África,Producto C,2023-01-21,44884,7254,460,4
+América del Norte,Producto B,2023-01-21,17964,17966,12,4
+Asia,Producto C,2023-01-21,38726,13186,223,1
+América del Norte,Producto A,2023-01-21,38044,5905,351,5
+Asia,Producto D,2023-01-21,38544,8353,83,2
+América del Sur,Producto B,2023-01-21,33252,10882,60,1
+Europa,Producto D,2023-01-21,4832,14041,76,2
+América del Norte,Producto B,2023-01-21,26275,14730,341,1
+África,Producto A,2023-01-21,15901,4663,102,5
+América del Sur,Producto A,2023-01-21,39213,14333,185,1
+América del Norte,Producto A,2023-01-21,35148,-4059,154,2
+África,Producto B,2023-01-21,43633,-3093,16,4
+América del Norte,Producto C,2023-01-21,23918,-163,278,2
+Asia,Producto B,2023-01-21,47694,8680,385,3
+América del Norte,Producto C,2023-01-21,20540,19489,331,3
+América del Norte,Producto B,2023-01-21,12580,12627,13,3
+América del Norte,Producto B,2023-01-21,39402,696,147,3
+América del Sur,Producto A,2023-01-21,39578,11226,240,5
+América del Norte,Producto D,2023-01-21,25917,8543,97,4
+África,Producto D,2023-01-21,23318,7615,26,4
+Asia,Producto C,2023-01-21,11179,-3534,61,2
+Asia,Producto D,2023-01-22,13251,15341,143,1
+América del Norte,Producto B,2023-01-22,46899,13350,220,2
+América del Sur,Producto B,2023-01-22,20493,-4625,334,2
+América del Sur,Producto A,2023-01-22,21466,-4738,489,2
+África,Producto A,2023-01-22,31206,15746,467,2
+América del Norte,Producto D,2023-01-22,46475,17886,402,4
+Asia,Producto C,2023-01-22,20624,6580,228,1
+América del Sur,Producto D,2023-01-22,27564,5136,214,2
+América del Norte,Producto D,2023-01-22,23412,2833,220,4
+América del Sur,Producto D,2023-01-22,28990,-3107,286,2
+América del Sur,Producto D,2023-01-22,36517,3106,33,3
+Asia,Producto B,2023-01-22,14156,6826,495,2
+Europa,Producto C,2023-01-22,24064,-3348,13,2
+África,Producto B,2023-01-22,26711,16924,161,5
+África,Producto C,2023-01-22,31106,15276,452,3
+Asia,Producto A,2023-01-22,17589,-4401,492,1
+América del Sur,Producto D,2023-01-22,24736,16199,268,2
+América del Norte,Producto B,2023-01-22,21975,13296,333,1
+América del Sur,Producto C,2023-01-22,37218,3792,366,3
+Asia,Producto A,2023-01-22,8214,19956,177,2
+África,Producto A,2023-01-22,31581,15597,185,5
+América del Sur,Producto D,2023-01-22,21195,-1363,319,4
+África,Producto C,2023-01-22,45582,5355,300,5
+América del Norte,Producto B,2023-01-22,28127,10989,488,5
+África,Producto D,2023-01-23,6141,4290,65,4
+África,Producto B,2023-01-23,29884,599,117,4
+Europa,Producto A,2023-01-23,25885,17832,482,4
+Europa,Producto B,2023-01-23,3708,9342,305,2
+Europa,Producto B,2023-01-23,19375,19941,470,1
+África,Producto D,2023-01-23,16088,8945,333,1
+Asia,Producto B,2023-01-23,45602,5762,311,4
+África,Producto D,2023-01-23,46046,9312,343,5
+Asia,Producto A,2023-01-23,11014,2382,150,3
+Asia,Producto D,2023-01-23,4273,3982,164,4
+Europa,Producto D,2023-01-23,48135,14953,271,5
+América del Sur,Producto C,2023-01-23,38306,2707,282,5
+América del Norte,Producto B,2023-01-23,31881,12130,429,2
+Europa,Producto A,2023-01-23,32486,19888,241,2
+Europa,Producto D,2023-01-23,13541,-367,250,1
+América del Sur,Producto A,2023-01-23,9712,12304,364,1
+América del Norte,Producto C,2023-01-23,10168,4269,346,3
+África,Producto B,2023-01-23,4551,8778,498,3
+África,Producto D,2023-01-23,13297,2008,267,3
+Europa,Producto B,2023-01-23,44733,10523,258,3
+América del Norte,Producto C,2023-01-23,28128,13765,86,5
+Europa,Producto C,2023-01-23,3832,-1382,189,5
+Asia,Producto A,2023-01-23,29483,15827,75,1
+Europa,Producto D,2023-01-23,23063,-4728,317,2
+Europa,Producto A,2023-01-24,23963,8007,357,2
+África,Producto C,2023-01-24,14422,13157,180,4
+África,Producto B,2023-01-24,33920,-2453,483,5
+África,Producto A,2023-01-24,12156,-1836,31,3
+Asia,Producto A,2023-01-24,12108,16164,376,3
+África,Producto B,2023-01-24,32845,9414,116,4
+América del Norte,Producto A,2023-01-24,3800,9327,448,2
+América del Sur,Producto B,2023-01-24,39078,10576,332,3
+América del Norte,Producto D,2023-01-24,43712,-4054,236,2
+América del Norte,Producto B,2023-01-24,3610,9693,453,4
+África,Producto D,2023-01-24,13067,11890,451,2
+América del Sur,Producto B,2023-01-24,34872,10540,405,2
+América del Sur,Producto C,2023-01-24,11728,1719,225,2
+América del Sur,Producto C,2023-01-24,30566,3435,78,3
+Asia,Producto D,2023-01-24,30783,6350,93,1
+África,Producto D,2023-01-24,21583,17744,112,5
+América del Sur,Producto C,2023-01-24,21238,19041,48,2
+Asia,Producto D,2023-01-24,8263,-1410,22,2
+Europa,Producto B,2023-01-24,2914,5064,306,2
+Europa,Producto B,2023-01-24,24749,12576,322,1
+Asia,Producto C,2023-01-24,20456,12848,190,4
+Asia,Producto A,2023-01-24,26582,-4610,277,3
+África,Producto B,2023-01-24,1406,16999,22,1
+África,Producto D,2023-01-24,14689,7668,129,2
+Europa,Producto A,2023-01-25,33934,6569,467,1
+América del Sur,Producto A,2023-01-25,34276,8029,362,1
+Europa,Producto B,2023-01-25,37432,17490,66,1
+América del Sur,Producto B,2023-01-25,20873,8107,49,4
+América del Sur,Producto A,2023-01-25,14050,-2440,383,5
+África,Producto A,2023-01-25,1680,867,345,3
+América del Norte,Producto C,2023-01-25,19908,10284,137,4
+América del Norte,Producto D,2023-01-25,19504,-3789,182,4
+Asia,Producto C,2023-01-25,22644,4121,44,5
+África,Producto B,2023-01-25,38125,-3461,268,4
+América del Sur,Producto C,2023-01-25,2363,12027,385,1
+América del Norte,Producto C,2023-01-25,43291,3693,14,1
+América del Sur,Producto C,2023-01-25,36060,3921,227,2
+América del Norte,Producto C,2023-01-25,2538,12667,20,4
+América del Norte,Producto D,2023-01-25,37176,19064,391,2
+América del Norte,Producto D,2023-01-25,42520,5310,336,3
+África,Producto A,2023-01-25,26675,18729,126,1
+Europa,Producto B,2023-01-25,19287,7744,193,3
+América del Sur,Producto C,2023-01-25,1174,-614,403,5
+África,Producto A,2023-01-25,27732,12303,371,1
+África,Producto A,2023-01-25,35998,7242,125,3
+África,Producto A,2023-01-25,38055,13723,171,5
+África,Producto D,2023-01-25,13112,9257,76,3
+África,Producto C,2023-01-25,40874,3947,209,5
+Asia,Producto C,2023-01-26,10689,8946,40,5
+América del Sur,Producto B,2023-01-26,45814,930,84,1
+África,Producto C,2023-01-26,20555,402,246,2
+América del Sur,Producto C,2023-01-26,34919,17047,336,5
+Asia,Producto A,2023-01-26,8619,11017,75,5
+Asia,Producto B,2023-01-26,7033,16659,79,1
+América del Sur,Producto C,2023-01-26,42328,-4493,306,2
+América del Norte,Producto D,2023-01-26,5946,-3564,456,4
+Europa,Producto C,2023-01-26,25618,6618,425,4
+América del Norte,Producto A,2023-01-26,35675,3750,29,2
+América del Norte,Producto D,2023-01-26,37258,11122,450,3
+América del Norte,Producto A,2023-01-26,19919,2354,235,1
+África,Producto C,2023-01-26,5173,6294,443,2
+Asia,Producto D,2023-01-26,44833,15900,473,4
+América del Norte,Producto B,2023-01-26,27400,8840,418,5
+Asia,Producto B,2023-01-26,5769,15006,405,4
+América del Sur,Producto D,2023-01-26,38564,-601,208,5
+Europa,Producto D,2023-01-26,46814,37,48,1
+América del Sur,Producto A,2023-01-26,15211,19495,154,5
+América del Sur,Producto D,2023-01-26,24255,10848,54,2
+África,Producto A,2023-01-26,28962,-1285,404,5
+Europa,Producto C,2023-01-26,20356,9877,335,3
+América del Sur,Producto A,2023-01-26,21306,2837,390,2
+América del Sur,Producto D,2023-01-26,5997,-3699,416,1
+Europa,Producto D,2023-01-27,18376,2370,100,2
+Europa,Producto C,2023-01-27,41880,16569,247,3
+América del Sur,Producto D,2023-01-27,39055,13539,79,1
+Europa,Producto D,2023-01-27,11578,1411,175,4
+América del Sur,Producto B,2023-01-27,19624,1365,139,3
+América del Sur,Producto B,2023-01-27,40194,10449,223,1
+África,Producto C,2023-01-27,45367,-4308,349,5
+América del Norte,Producto A,2023-01-27,1389,-3522,98,2
+América del Sur,Producto B,2023-01-27,34767,1396,344,1
+Asia,Producto A,2023-01-27,46580,3448,261,2
+América del Norte,Producto D,2023-01-27,49367,5622,378,5
+América del Norte,Producto B,2023-01-27,2855,11825,358,1
+América del Norte,Producto C,2023-01-27,41893,5073,81,4
+África,Producto C,2023-01-27,14794,-2354,174,3
+América del Sur,Producto C,2023-01-27,36531,209,58,1
+África,Producto B,2023-01-27,5986,1533,61,5
+América del Sur,Producto A,2023-01-27,33298,16061,298,1
+África,Producto D,2023-01-27,2481,2211,287,2
+África,Producto A,2023-01-27,4731,4927,123,1
+Asia,Producto A,2023-01-27,17835,6927,248,4
+África,Producto D,2023-01-27,28798,14029,142,1
+Europa,Producto D,2023-01-27,27113,19594,496,3
+Asia,Producto B,2023-01-27,20477,4316,283,1
+África,Producto B,2023-01-27,18266,7177,175,2
+América del Norte,Producto B,2023-01-28,21792,5846,383,1
+Europa,Producto B,2023-01-28,21452,2933,382,4
+Europa,Producto B,2023-01-28,44526,476,302,5
+Europa,Producto D,2023-01-28,42334,8853,487,1
+Asia,Producto A,2023-01-28,12889,2928,252,1
+África,Producto B,2023-01-28,25335,-2920,488,3
+África,Producto B,2023-01-28,12254,1089,329,4
+América del Norte,Producto A,2023-01-28,22074,18780,147,5
+América del Norte,Producto B,2023-01-28,12442,2797,88,2
+Europa,Producto A,2023-01-28,47289,12245,179,1
+América del Norte,Producto A,2023-01-28,38327,3346,132,5
+Asia,Producto D,2023-01-28,17199,14878,185,2
+África,Producto C,2023-01-28,8291,-4096,309,4
+Europa,Producto D,2023-01-28,41928,12653,91,4
+América del Norte,Producto C,2023-01-28,1112,11788,96,5
+Asia,Producto C,2023-01-28,22515,4974,234,2
+Asia,Producto C,2023-01-28,20581,-3816,25,4
+América del Norte,Producto B,2023-01-28,49692,-3275,319,5
+África,Producto D,2023-01-28,27500,6380,367,4
+América del Norte,Producto C,2023-01-28,33026,19846,172,4
+Europa,Producto A,2023-01-28,17523,8057,107,4
+América del Norte,Producto B,2023-01-28,2424,17195,165,3
+Asia,Producto D,2023-01-28,20552,606,11,2
+América del Norte,Producto C,2023-01-28,11808,-1044,359,5
+África,Producto A,2023-01-29,39811,11555,406,5
+América del Sur,Producto D,2023-01-29,7989,19849,178,2
+América del Norte,Producto D,2023-01-29,24620,13690,473,2
+África,Producto B,2023-01-29,40029,11081,324,2
+África,Producto D,2023-01-29,1887,-4579,334,2
+Asia,Producto B,2023-01-29,32802,540,384,1
+África,Producto C,2023-01-29,20488,11288,101,5
+África,Producto B,2023-01-29,31013,10966,190,1
+África,Producto A,2023-01-29,17402,10882,240,4
+África,Producto B,2023-01-29,22205,-325,310,4
+Europa,Producto A,2023-01-29,27049,4082,157,5
+Europa,Producto B,2023-01-29,13253,8009,289,4
+Asia,Producto D,2023-01-29,19990,1748,198,2
+América del Norte,Producto C,2023-01-29,8846,1103,356,1
+África,Producto A,2023-01-29,26027,12857,359,2
+América del Norte,Producto B,2023-01-29,40200,14627,323,4
+América del Norte,Producto B,2023-01-29,47220,13565,420,1
+Asia,Producto B,2023-01-29,47163,14480,419,2
+África,Producto D,2023-01-29,4765,18030,137,5
+África,Producto D,2023-01-29,16950,6348,16,2
+América del Sur,Producto A,2023-01-29,46270,4782,435,4
+América del Norte,Producto A,2023-01-29,10741,882,56,1
+América del Norte,Producto D,2023-01-29,23742,17366,62,5
+Europa,Producto A,2023-01-29,25703,798,196,1
+América del Sur,Producto C,2023-01-30,39709,4627,47,5
+Europa,Producto C,2023-01-30,38623,3415,462,1
+Europa,Producto D,2023-01-30,23931,19795,480,4
+Europa,Producto A,2023-01-30,24580,7466,485,5
+Asia,Producto B,2023-01-30,16166,4846,235,3
+Asia,Producto C,2023-01-30,30240,7720,62,1
+Europa,Producto D,2023-01-30,26991,19840,408,1
+América del Sur,Producto A,2023-01-30,39556,4145,233,2
+América del Norte,Producto D,2023-01-30,33969,-476,163,5
+América del Sur,Producto B,2023-01-30,11561,1559,57,3
+África,Producto C,2023-01-30,17901,2620,360,4
+Asia,Producto D,2023-01-30,41505,14158,156,2
+América del Norte,Producto D,2023-01-30,31020,17057,402,3
+América del Norte,Producto D,2023-01-30,26917,-1876,73,5
+África,Producto B,2023-01-30,2988,3671,358,3
+África,Producto D,2023-01-30,49209,6706,191,1
+Europa,Producto B,2023-01-30,45505,12737,134,1
+Asia,Producto B,2023-01-30,15256,7070,188,2
+Asia,Producto B,2023-01-30,23192,15238,48,5
+América del Sur,Producto C,2023-01-30,29230,3134,269,5
+Europa,Producto C,2023-01-30,40930,-4076,391,3
+Europa,Producto D,2023-01-30,46833,13554,12,2
+Europa,Producto D,2023-01-30,23625,506,73,5
+Europa,Producto C,2023-01-30,33088,8650,38,1
+Asia,Producto A,2023-01-31,15114,-2605,381,3
+Asia,Producto C,2023-01-31,42167,19604,20,4
+Europa,Producto B,2023-01-31,39401,10310,106,1
+América del Sur,Producto C,2023-01-31,6755,3226,367,2
+América del Norte,Producto B,2023-01-31,11825,6781,451,5
+América del Norte,Producto D,2023-01-31,23693,515,212,1
+América del Sur,Producto A,2023-01-31,5117,14054,420,4
+Europa,Producto D,2023-01-31,25729,-1635,490,4
+Asia,Producto B,2023-01-31,33182,11972,30,2
+América del Norte,Producto B,2023-01-31,29890,6410,48,1
+África,Producto B,2023-01-31,30340,14522,232,3
+África,Producto A,2023-01-31,2518,4095,111,1
+América del Sur,Producto C,2023-01-31,31949,18047,55,4
+Europa,Producto D,2023-01-31,23547,15470,75,2
+América del Norte,Producto D,2023-01-31,17346,5361,100,2
+Europa,Producto C,2023-01-31,3600,3531,173,3
+América del Norte,Producto D,2023-01-31,47005,-730,468,2
+América del Sur,Producto A,2023-01-31,30267,17403,120,2
+América del Sur,Producto D,2023-01-31,37322,4906,347,2
+África,Producto B,2023-01-31,27990,11940,132,2
+Europa,Producto C,2023-01-31,17193,19406,202,2
+África,Producto A,2023-01-31,31109,6279,456,4
+Europa,Producto C,2023-01-31,20233,452,108,1
+África,Producto A,2023-01-31,49021,14951,300,5
+Asia,Producto B,2023-02-01,17194,15283,168,2
+Asia,Producto C,2023-02-01,35510,1477,421,5
+Asia,Producto D,2023-02-01,2306,18884,112,5
+Asia,Producto A,2023-02-01,4849,12400,394,4
+América del Norte,Producto C,2023-02-01,13360,1470,290,2
+Asia,Producto D,2023-02-01,46536,-2938,52,5
+América del Sur,Producto C,2023-02-01,30231,4030,495,2
+América del Sur,Producto C,2023-02-01,46800,15705,93,3
+América del Norte,Producto C,2023-02-01,37963,14880,460,3
+Asia,Producto A,2023-02-01,19689,-3187,200,3
+Asia,Producto D,2023-02-01,30084,6671,60,5
+Asia,Producto B,2023-02-01,41387,17640,395,3
+África,Producto A,2023-02-01,10280,9308,219,4
+Europa,Producto A,2023-02-01,3642,-2687,135,4
+África,Producto A,2023-02-01,43137,4706,457,5
+Europa,Producto B,2023-02-01,15296,12615,467,2
+Asia,Producto D,2023-02-01,16438,4837,78,1
+Asia,Producto D,2023-02-01,49442,831,274,2
+África,Producto D,2023-02-01,38525,14383,267,2
+África,Producto C,2023-02-01,3994,14824,427,2
+Europa,Producto C,2023-02-01,48994,-944,197,2
+América del Sur,Producto C,2023-02-01,35039,-4695,239,1
+Europa,Producto B,2023-02-01,2813,9347,198,3
+África,Producto C,2023-02-01,28491,-3311,424,2
+África,Producto B,2023-02-02,19845,-1083,19,4
+América del Norte,Producto D,2023-02-02,42243,18464,123,5
+África,Producto C,2023-02-02,38164,19995,85,5
+América del Norte,Producto C,2023-02-02,43051,-2064,173,4
+América del Sur,Producto A,2023-02-02,14318,-1138,94,2
+Europa,Producto B,2023-02-02,18200,9506,58,1
+Europa,Producto D,2023-02-02,1082,9318,335,3
+América del Norte,Producto A,2023-02-02,2920,10300,186,5
+Europa,Producto A,2023-02-02,41585,649,396,3
+África,Producto D,2023-02-02,12683,14645,467,1
+Asia,Producto A,2023-02-02,12336,13203,398,5
+América del Norte,Producto B,2023-02-02,16596,10674,227,3
+Europa,Producto B,2023-02-02,3093,12726,198,1
+América del Norte,Producto C,2023-02-02,13905,560,478,3
+América del Norte,Producto A,2023-02-02,25351,10451,355,2
+Asia,Producto C,2023-02-02,31981,13610,239,1
+África,Producto A,2023-02-02,9367,-3921,264,3
+América del Norte,Producto B,2023-02-02,6285,8983,245,2
+Europa,Producto B,2023-02-02,44664,15590,35,2
+América del Sur,Producto B,2023-02-02,38705,17664,81,1
+América del Norte,Producto A,2023-02-02,17753,10327,270,4
+América del Norte,Producto B,2023-02-02,19485,7755,263,5
+Asia,Producto A,2023-02-02,13977,2235,280,1
+África,Producto C,2023-02-02,20874,12197,132,2
+América del Sur,Producto A,2023-02-03,8674,16473,153,2
+Europa,Producto C,2023-02-03,30038,-2969,266,1
+América del Sur,Producto A,2023-02-03,30315,3514,153,4
+Europa,Producto C,2023-02-03,4676,4095,430,5
+África,Producto B,2023-02-03,3426,9287,268,3
+Europa,Producto C,2023-02-03,25473,911,445,1
+Asia,Producto B,2023-02-03,3962,6695,56,5
+Asia,Producto B,2023-02-03,30943,14037,360,5
+Asia,Producto C,2023-02-03,1859,-1660,22,2
+Asia,Producto A,2023-02-03,45816,2876,385,3
+América del Sur,Producto A,2023-02-03,5138,10896,217,1
+África,Producto D,2023-02-03,36192,7435,320,2
+Europa,Producto A,2023-02-03,26640,-3859,244,2
+Europa,Producto D,2023-02-03,11409,19942,158,4
+Asia,Producto A,2023-02-03,5017,14281,331,5
+Asia,Producto A,2023-02-03,11451,4281,447,1
+América del Norte,Producto B,2023-02-03,29327,15425,164,1
+África,Producto D,2023-02-03,11278,-2962,175,1
+América del Sur,Producto A,2023-02-03,25944,-730,99,2
+Europa,Producto D,2023-02-03,44764,5046,195,4
+América del Norte,Producto B,2023-02-03,2134,-317,327,3
+América del Norte,Producto B,2023-02-03,31131,11878,367,2
+Europa,Producto D,2023-02-03,38887,2116,183,3
+América del Sur,Producto B,2023-02-03,39462,-3216,226,4
+América del Norte,Producto C,2023-02-04,23520,14894,404,5
+América del Norte,Producto C,2023-02-04,22869,-1214,465,1
+África,Producto B,2023-02-04,37932,16650,273,3
+América del Sur,Producto C,2023-02-04,6039,4190,106,2
+América del Norte,Producto A,2023-02-04,22281,428,126,3
+América del Sur,Producto D,2023-02-04,48399,1681,208,5
+Europa,Producto A,2023-02-04,11442,1893,329,1
+Asia,Producto D,2023-02-04,9252,7661,495,3
+América del Norte,Producto B,2023-02-04,28586,9892,30,5
+África,Producto A,2023-02-04,18568,4643,209,2
+Europa,Producto B,2023-02-04,21810,4943,380,4
+América del Sur,Producto B,2023-02-04,2551,5472,456,2
+Europa,Producto D,2023-02-04,13625,7992,350,1
+América del Norte,Producto D,2023-02-04,35397,16042,457,2
+América del Sur,Producto D,2023-02-04,27249,18466,257,2
+Asia,Producto A,2023-02-04,2361,6126,285,2
+Europa,Producto C,2023-02-04,27149,1869,273,2
+América del Norte,Producto D,2023-02-04,5370,18991,67,1
+África,Producto D,2023-02-04,6283,2669,311,5
+América del Sur,Producto A,2023-02-04,8610,6538,40,3
+Europa,Producto D,2023-02-04,44326,5065,258,4
+Europa,Producto A,2023-02-04,15924,17603,102,3
+Asia,Producto B,2023-02-04,48607,15918,274,3
+Asia,Producto D,2023-02-04,45717,17363,280,4
+África,Producto D,2023-02-05,11626,5171,103,1
+África,Producto B,2023-02-05,35761,12696,163,4
+América del Norte,Producto B,2023-02-05,1869,-2038,403,1
+América del Norte,Producto B,2023-02-05,32552,8851,294,3
+África,Producto D,2023-02-05,2014,14322,89,1
+África,Producto C,2023-02-05,11103,7979,301,5
+América del Sur,Producto C,2023-02-05,17986,14581,93,4
+Asia,Producto C,2023-02-05,45781,296,374,5
+América del Norte,Producto D,2023-02-05,31471,18588,383,3
+Asia,Producto B,2023-02-05,34458,9745,46,4
+Asia,Producto D,2023-02-05,26069,730,351,3
+África,Producto B,2023-02-05,17873,8921,336,5
+América del Sur,Producto D,2023-02-05,24248,-4874,416,3
+Europa,Producto D,2023-02-05,24624,602,434,4
+América del Sur,Producto B,2023-02-05,44516,12575,241,4
+América del Sur,Producto C,2023-02-05,30061,14023,102,3
+Asia,Producto B,2023-02-05,25170,7581,345,4
+América del Sur,Producto A,2023-02-05,9024,10997,111,4
+América del Norte,Producto A,2023-02-05,17678,12750,421,3
+Asia,Producto B,2023-02-05,39256,4211,441,5
+América del Norte,Producto D,2023-02-05,21411,17837,175,4
+Europa,Producto A,2023-02-05,44803,9997,168,4
+Asia,Producto A,2023-02-05,20296,1671,23,4
+Europa,Producto D,2023-02-05,27293,18067,382,4
+Asia,Producto D,2023-02-06,28172,7271,234,3
+África,Producto C,2023-02-06,22128,15923,82,5
+América del Sur,Producto D,2023-02-06,19257,3876,258,5
+África,Producto B,2023-02-06,13855,-2113,100,1
+Europa,Producto B,2023-02-06,20642,4654,225,4
+América del Sur,Producto C,2023-02-06,36585,-914,470,4
+Asia,Producto A,2023-02-06,21025,13645,99,1
+América del Sur,Producto A,2023-02-06,5458,-820,38,5
+América del Norte,Producto D,2023-02-06,6307,-2159,444,2
+América del Sur,Producto B,2023-02-06,42701,1040,314,2
+América del Norte,Producto A,2023-02-06,19425,14944,436,5
+América del Sur,Producto C,2023-02-06,44427,5304,485,4
+América del Norte,Producto C,2023-02-06,29273,-242,229,2
+Europa,Producto B,2023-02-06,39506,12010,337,3
+África,Producto C,2023-02-06,6668,11234,224,3
+Asia,Producto C,2023-02-06,26934,14,230,1
+América del Sur,Producto B,2023-02-06,48195,-3625,398,5
+África,Producto D,2023-02-06,8697,-3819,51,5
+Asia,Producto D,2023-02-06,25417,17092,144,2
+Asia,Producto C,2023-02-06,17446,-4510,51,4
+América del Norte,Producto D,2023-02-06,41597,-1271,173,5
+Europa,Producto D,2023-02-06,11751,974,370,2
+Europa,Producto C,2023-02-06,47218,14918,292,2
+África,Producto D,2023-02-06,8352,14680,67,5
+Europa,Producto C,2023-02-07,14516,13324,311,2
+América del Sur,Producto A,2023-02-07,24299,16398,331,1
+Europa,Producto B,2023-02-07,32957,-3118,34,1
+África,Producto B,2023-02-07,29927,16292,82,5
+Europa,Producto D,2023-02-07,42094,-2013,382,4
+América del Sur,Producto D,2023-02-07,37412,585,420,1
+América del Norte,Producto D,2023-02-07,30493,-1841,138,1
+África,Producto B,2023-02-07,27711,-470,96,5
+América del Norte,Producto A,2023-02-07,9003,12065,339,3
+América del Norte,Producto A,2023-02-07,32707,16638,435,2
+América del Norte,Producto B,2023-02-07,4278,-3927,445,1
+Asia,Producto A,2023-02-07,8296,8743,162,3
+Asia,Producto B,2023-02-07,26398,13771,191,4
+América del Norte,Producto A,2023-02-07,36842,-2307,134,3
+África,Producto C,2023-02-07,14261,4562,76,5
+América del Sur,Producto C,2023-02-07,12173,-660,15,4
+América del Sur,Producto B,2023-02-07,31449,-2844,134,4
+Europa,Producto A,2023-02-07,42080,11184,323,3
+África,Producto D,2023-02-07,2637,2966,335,5
+Asia,Producto A,2023-02-07,32781,-2420,62,1
+América del Norte,Producto C,2023-02-07,14652,2257,75,3
+Europa,Producto C,2023-02-07,6103,-2841,323,1
+América del Sur,Producto A,2023-02-07,26500,11172,91,3
+Asia,Producto A,2023-02-07,35800,8900,96,1
+Asia,Producto D,2023-02-08,36529,6440,11,3
+América del Norte,Producto D,2023-02-08,48963,9678,213,4
+América del Sur,Producto A,2023-02-08,19452,9436,159,2
+África,Producto A,2023-02-08,32174,7021,302,4
+Asia,Producto A,2023-02-08,36436,1772,413,1
+América del Norte,Producto A,2023-02-08,48406,-3373,112,5
+África,Producto B,2023-02-08,16954,6664,33,4
+América del Sur,Producto A,2023-02-08,18186,3219,377,2
+Asia,Producto D,2023-02-08,13356,18464,221,1
+África,Producto C,2023-02-08,33963,13369,74,4
+África,Producto B,2023-02-08,3187,4713,458,3
+África,Producto A,2023-02-08,12707,3488,218,5
+Asia,Producto C,2023-02-08,36098,-2819,260,1
+Asia,Producto B,2023-02-08,27935,6594,394,4
+Europa,Producto C,2023-02-08,22225,13680,126,1
+América del Sur,Producto A,2023-02-08,4606,2164,125,3
+América del Norte,Producto A,2023-02-08,33828,13981,246,2
+África,Producto D,2023-02-08,27489,-4099,487,4
+Europa,Producto A,2023-02-08,15387,17444,114,1
+América del Norte,Producto A,2023-02-08,4927,4290,268,1
+Europa,Producto B,2023-02-08,7296,13061,55,1
+Asia,Producto D,2023-02-08,31444,-2119,320,2
+África,Producto B,2023-02-08,47390,8058,340,1
+América del Norte,Producto C,2023-02-08,47893,622,225,5
+América del Norte,Producto A,2023-02-09,3591,19436,479,5
+América del Norte,Producto C,2023-02-09,45895,-3622,457,1
+América del Norte,Producto B,2023-02-09,49516,12632,310,5
+América del Norte,Producto A,2023-02-09,27147,650,419,4
+Europa,Producto A,2023-02-09,39889,7433,342,5
+África,Producto B,2023-02-09,2200,17463,458,1
+Asia,Producto B,2023-02-09,16721,4456,33,3
+Asia,Producto B,2023-02-09,20238,2036,467,4
+Asia,Producto B,2023-02-09,12087,1487,44,2
+Asia,Producto B,2023-02-09,31816,12442,33,1
+Europa,Producto A,2023-02-09,24408,13432,37,2
+América del Sur,Producto B,2023-02-09,40740,17499,493,3
+África,Producto A,2023-02-09,1136,-752,473,2
+América del Norte,Producto A,2023-02-09,18413,13860,497,1
+América del Sur,Producto B,2023-02-09,49114,-397,25,1
+Asia,Producto B,2023-02-09,19978,14937,68,3
+América del Sur,Producto D,2023-02-09,1661,7632,474,1
+África,Producto A,2023-02-09,36240,-4780,252,3
+América del Norte,Producto B,2023-02-09,28253,9226,447,3
+América del Norte,Producto B,2023-02-09,27884,-182,216,1
+África,Producto B,2023-02-09,33854,18576,409,5
+África,Producto D,2023-02-09,11704,16007,280,3
+Asia,Producto D,2023-02-09,39987,2349,258,1
+América del Norte,Producto C,2023-02-09,25527,618,491,5
+América del Sur,Producto A,2023-02-10,17322,4856,276,3
+Europa,Producto C,2023-02-10,48517,18593,202,5
+Europa,Producto B,2023-02-10,7968,-424,344,4
+África,Producto D,2023-02-10,28518,13255,227,4
+Asia,Producto D,2023-02-10,47364,19299,124,5
+Europa,Producto C,2023-02-10,28886,10207,77,3
+América del Norte,Producto D,2023-02-10,2700,-3538,308,1
+África,Producto B,2023-02-10,29246,16905,334,2
+América del Sur,Producto D,2023-02-10,36468,10905,492,1
+África,Producto C,2023-02-10,24199,19920,406,2
+América del Sur,Producto B,2023-02-10,45589,11252,403,2
+África,Producto C,2023-02-10,33115,3236,84,3
+África,Producto D,2023-02-10,6520,2813,475,5
+África,Producto C,2023-02-10,45278,-2932,491,1
+América del Sur,Producto C,2023-02-10,37455,753,112,5
+América del Sur,Producto A,2023-02-10,21929,2237,306,4
+África,Producto D,2023-02-10,42605,9175,499,3
+Europa,Producto D,2023-02-10,15955,18400,187,3
+Asia,Producto C,2023-02-10,45049,1191,224,4
+Asia,Producto A,2023-02-10,14917,12898,464,1
+Asia,Producto D,2023-02-10,5757,13982,324,4
+América del Sur,Producto B,2023-02-10,14045,9622,48,1
+América del Sur,Producto C,2023-02-10,42680,-3999,268,2
+Europa,Producto D,2023-02-10,5733,12417,213,3
+Asia,Producto B,2023-02-11,31954,9877,16,1
+Asia,Producto D,2023-02-11,32135,5232,58,5
+África,Producto B,2023-02-11,8081,18283,35,5
+América del Sur,Producto C,2023-02-11,42458,19849,170,3
+Asia,Producto D,2023-02-11,24501,16435,366,4
+Europa,Producto D,2023-02-11,22113,-524,185,4
+Europa,Producto A,2023-02-11,35441,11862,88,1
+Asia,Producto C,2023-02-11,48086,-4485,11,4
+América del Sur,Producto B,2023-02-11,25690,7478,498,3
+Europa,Producto D,2023-02-11,44939,-3809,392,1
+África,Producto D,2023-02-11,30345,5860,464,2
+Europa,Producto B,2023-02-11,47313,8448,425,4
+América del Norte,Producto C,2023-02-11,45571,1297,141,4
+América del Norte,Producto A,2023-02-11,27829,11655,285,1
+América del Sur,Producto A,2023-02-11,36062,3334,126,5
+Asia,Producto D,2023-02-11,4630,19162,173,4
+América del Sur,Producto B,2023-02-11,48861,1008,297,3
+América del Sur,Producto D,2023-02-11,32870,2987,37,4
+América del Sur,Producto B,2023-02-11,48221,-1668,342,2
+América del Sur,Producto A,2023-02-11,45942,-4213,10,4
+África,Producto C,2023-02-11,4453,1222,197,5
+África,Producto B,2023-02-11,38275,4873,65,4
+Europa,Producto A,2023-02-11,44370,12006,44,1
+América del Norte,Producto D,2023-02-11,39396,15225,121,4
+América del Sur,Producto B,2023-02-12,9328,-1324,295,5
+Europa,Producto C,2023-02-12,16534,-2428,319,1
+América del Norte,Producto D,2023-02-12,20744,1915,45,3
+Asia,Producto D,2023-02-12,20389,33,448,1
+África,Producto A,2023-02-12,37320,2788,226,2
+América del Norte,Producto B,2023-02-12,36010,10689,89,1
+Asia,Producto D,2023-02-12,15665,6452,323,3
+América del Norte,Producto C,2023-02-12,38865,16598,92,4
+África,Producto B,2023-02-12,9640,-288,74,1
+África,Producto C,2023-02-12,35716,-4934,334,1
+Europa,Producto D,2023-02-12,26521,10855,137,1
+América del Sur,Producto C,2023-02-12,31049,7478,316,1
+América del Norte,Producto A,2023-02-12,6618,2533,31,3
+América del Norte,Producto C,2023-02-12,38004,10103,225,5
+Asia,Producto B,2023-02-12,2920,-384,116,5
+África,Producto C,2023-02-12,44937,8277,118,1
+América del Norte,Producto C,2023-02-12,5188,12524,381,3
+África,Producto A,2023-02-12,13207,730,366,3
+América del Norte,Producto C,2023-02-12,1238,5724,190,1
+Europa,Producto C,2023-02-12,33972,6772,365,2
+América del Sur,Producto D,2023-02-12,11799,18849,173,1
+América del Norte,Producto D,2023-02-12,6552,11268,77,2
+África,Producto B,2023-02-12,29916,15855,301,1
+Europa,Producto D,2023-02-12,5927,7940,189,2
+América del Norte,Producto D,2023-02-13,28964,14723,190,2
+Asia,Producto D,2023-02-13,12164,11932,475,1
+América del Sur,Producto D,2023-02-13,38158,19059,443,2
+América del Norte,Producto A,2023-02-13,20071,19648,473,4
+Europa,Producto D,2023-02-13,49409,9643,178,5
+Asia,Producto A,2023-02-13,7160,-4802,411,3
+Europa,Producto A,2023-02-13,16810,11955,31,2
+Europa,Producto D,2023-02-13,6126,12174,75,2
+Asia,Producto C,2023-02-13,31009,4830,30,3
+Europa,Producto A,2023-02-13,34584,8798,109,2
+Asia,Producto C,2023-02-13,47182,12558,393,3
+América del Norte,Producto C,2023-02-13,26396,6469,309,1
+Asia,Producto D,2023-02-13,1192,-4822,112,4
+Asia,Producto B,2023-02-13,37413,13628,56,4
+América del Sur,Producto D,2023-02-13,13816,15470,48,5
+Asia,Producto B,2023-02-13,40082,12118,294,2
+Asia,Producto B,2023-02-13,33130,17616,319,5
+América del Norte,Producto D,2023-02-13,41142,-4202,99,1
+América del Sur,Producto D,2023-02-13,37468,2601,94,4
+África,Producto B,2023-02-13,31698,-2205,282,1
+América del Norte,Producto D,2023-02-13,11655,7496,345,1
+América del Norte,Producto B,2023-02-13,48897,-412,197,2
+África,Producto C,2023-02-13,31075,2297,168,1
+Asia,Producto D,2023-02-13,10359,-1916,252,4
+Europa,Producto C,2023-02-14,37661,6110,82,5
+América del Sur,Producto A,2023-02-14,40579,-4269,488,4
+Europa,Producto C,2023-02-14,43056,-3871,471,2
+África,Producto C,2023-02-14,34272,-3395,58,4
+América del Norte,Producto B,2023-02-14,43581,6970,110,3
+América del Norte,Producto C,2023-02-14,15671,5937,11,5
+América del Sur,Producto D,2023-02-14,28048,6362,253,3
+América del Norte,Producto B,2023-02-14,11738,-2067,185,3
+América del Norte,Producto A,2023-02-14,26963,10187,247,2
+América del Sur,Producto D,2023-02-14,44954,19900,407,1
+América del Sur,Producto A,2023-02-14,7773,74,68,3
+África,Producto C,2023-02-14,37584,9037,362,4
+América del Norte,Producto D,2023-02-14,30894,2099,108,1
+América del Norte,Producto D,2023-02-14,1717,12874,451,4
+África,Producto A,2023-02-14,12676,-4107,368,4
+Asia,Producto D,2023-02-14,5434,-3610,451,1
+Asia,Producto D,2023-02-14,38825,14773,444,1
+Asia,Producto D,2023-02-14,30100,-761,477,4
+África,Producto C,2023-02-14,5994,15863,11,2
+América del Norte,Producto A,2023-02-14,5234,13647,252,5
+África,Producto D,2023-02-14,4764,-1568,306,5
+África,Producto B,2023-02-14,44949,-2629,220,2
+Asia,Producto B,2023-02-14,38405,15696,132,1
+Europa,Producto B,2023-02-14,35872,-3485,238,4
+América del Norte,Producto B,2023-02-15,43215,10906,91,5
+Asia,Producto C,2023-02-15,24185,1326,153,4
+Europa,Producto D,2023-02-15,44442,9605,397,2
+Europa,Producto A,2023-02-15,42153,18472,149,4
+América del Sur,Producto D,2023-02-15,12999,586,38,2
+América del Norte,Producto C,2023-02-15,37487,-2083,400,1
+Europa,Producto B,2023-02-15,3581,17115,279,2
+Asia,Producto C,2023-02-15,3763,19070,256,2
+América del Sur,Producto D,2023-02-15,28374,10901,21,5
+América del Norte,Producto A,2023-02-15,39759,12551,364,4
+África,Producto C,2023-02-15,11531,19686,398,5
+Asia,Producto A,2023-02-15,26307,16493,346,3
+Europa,Producto C,2023-02-15,31835,15711,115,2
+Europa,Producto A,2023-02-15,12064,17194,41,3
+Asia,Producto A,2023-02-15,12312,15039,83,5
+Europa,Producto B,2023-02-15,38548,-1207,180,4
+América del Sur,Producto A,2023-02-15,37945,4947,346,5
+América del Norte,Producto B,2023-02-15,48937,10859,78,4
+América del Sur,Producto D,2023-02-15,7476,18122,310,4
+Europa,Producto D,2023-02-15,25565,-3423,371,1
+África,Producto B,2023-02-15,3382,4488,146,2
+América del Norte,Producto B,2023-02-15,23463,13604,442,5
+América del Norte,Producto C,2023-02-15,46276,4164,426,4
+Asia,Producto C,2023-02-15,34402,-3970,493,5
+Asia,Producto C,2023-02-16,27345,10881,109,5
+África,Producto D,2023-02-16,45764,5785,155,4
+América del Norte,Producto C,2023-02-16,27946,1691,18,3
+África,Producto A,2023-02-16,15162,15376,71,2
+Asia,Producto A,2023-02-16,47773,12297,194,2
+Asia,Producto C,2023-02-16,9397,1358,38,1
+América del Norte,Producto A,2023-02-16,23335,13565,390,1
+América del Sur,Producto D,2023-02-16,46095,14581,123,1
+Europa,Producto A,2023-02-16,15394,17424,471,2
+Asia,Producto D,2023-02-16,28197,-3538,418,3
+Asia,Producto B,2023-02-16,23010,10511,152,2
+América del Sur,Producto B,2023-02-16,25123,5570,399,2
+América del Sur,Producto B,2023-02-16,23387,10897,129,2
+África,Producto B,2023-02-16,3890,6646,179,2
+África,Producto A,2023-02-16,28769,10474,166,3
+Europa,Producto C,2023-02-16,44626,2037,344,1
+Europa,Producto A,2023-02-16,9026,4499,358,5
+América del Norte,Producto D,2023-02-16,4306,16378,269,1
+África,Producto A,2023-02-16,34665,8386,91,1
+Asia,Producto A,2023-02-16,10277,16692,251,5
+África,Producto D,2023-02-16,43239,1221,450,2
+Asia,Producto B,2023-02-16,48664,18474,442,3
+América del Sur,Producto B,2023-02-16,49008,2769,181,3
+África,Producto B,2023-02-16,15683,12071,240,1
+América del Sur,Producto C,2023-02-17,1670,9356,217,5
+Europa,Producto D,2023-02-17,24675,16045,84,4
+Europa,Producto D,2023-02-17,18889,13278,279,2
+América del Norte,Producto A,2023-02-17,45535,2389,396,1
+África,Producto C,2023-02-17,14006,-78,123,3
+América del Sur,Producto B,2023-02-17,49536,8639,71,5
+Asia,Producto C,2023-02-17,27531,17706,371,5
+Europa,Producto D,2023-02-17,22639,5003,329,1
+Europa,Producto D,2023-02-17,17633,14567,111,4
+Asia,Producto A,2023-02-17,35660,15181,438,3
+América del Sur,Producto A,2023-02-17,4439,178,371,1
+América del Sur,Producto D,2023-02-17,33172,10240,219,4
+África,Producto B,2023-02-17,36622,-1032,451,5
+África,Producto B,2023-02-17,12577,-2284,264,2
+América del Norte,Producto C,2023-02-17,12763,11574,29,3
+Europa,Producto D,2023-02-17,21176,8511,67,3
+África,Producto D,2023-02-17,45386,12719,121,4
+América del Sur,Producto B,2023-02-17,25255,3181,482,1
+Asia,Producto B,2023-02-17,42003,7995,322,5
+América del Sur,Producto D,2023-02-17,20996,6298,495,4
+Europa,Producto A,2023-02-17,36386,11762,470,2
+América del Sur,Producto D,2023-02-17,22062,15213,205,2
+América del Norte,Producto D,2023-02-17,36931,1380,384,2
+Europa,Producto B,2023-02-17,36710,-4385,471,4
+Asia,Producto B,2023-02-18,35693,13714,362,5
+América del Norte,Producto A,2023-02-18,36740,13138,101,3
+Europa,Producto A,2023-02-18,12705,-4537,61,1
+Asia,Producto C,2023-02-18,44408,4158,302,3
+América del Norte,Producto D,2023-02-18,29047,15651,17,5
+América del Norte,Producto B,2023-02-18,11966,-1842,309,3
+Europa,Producto A,2023-02-18,18374,15008,107,4
+África,Producto C,2023-02-18,12138,8434,245,2
+América del Norte,Producto C,2023-02-18,16935,-62,398,5
+América del Norte,Producto B,2023-02-18,46913,417,383,5
+Asia,Producto B,2023-02-18,1489,17388,78,3
+América del Sur,Producto C,2023-02-18,45516,3881,424,4
+Europa,Producto A,2023-02-18,23260,603,54,3
+Europa,Producto C,2023-02-18,27069,-2788,146,3
+África,Producto D,2023-02-18,20275,17504,243,5
+África,Producto D,2023-02-18,37284,17202,41,3
+Europa,Producto B,2023-02-18,40178,11766,298,2
+África,Producto A,2023-02-18,33821,13640,135,3
+Asia,Producto A,2023-02-18,17999,6695,76,2
+Europa,Producto D,2023-02-18,39712,12796,39,5
+África,Producto C,2023-02-18,41172,4775,123,4
+Europa,Producto B,2023-02-18,34722,9559,213,2
+América del Sur,Producto C,2023-02-18,11625,1146,38,4
+América del Norte,Producto C,2023-02-18,2629,-4629,140,4
+Europa,Producto C,2023-02-19,11973,17190,483,2
+América del Norte,Producto A,2023-02-19,7859,565,194,5
+África,Producto D,2023-02-19,42609,3802,262,1
+América del Norte,Producto A,2023-02-19,44307,3307,295,4
+Europa,Producto D,2023-02-19,46450,2437,402,4
+América del Sur,Producto B,2023-02-19,37046,-4554,419,5
+África,Producto B,2023-02-19,22839,-3609,395,5
+Europa,Producto C,2023-02-19,28216,6516,71,3
+África,Producto D,2023-02-19,19945,12724,12,5
+Asia,Producto D,2023-02-19,7539,10454,439,4
+América del Norte,Producto D,2023-02-19,34625,14323,77,2
+Asia,Producto C,2023-02-19,5886,6891,34,1
+Europa,Producto C,2023-02-19,46713,9998,188,3
+América del Sur,Producto B,2023-02-19,8485,969,150,2
+África,Producto A,2023-02-19,32455,4265,240,1
+América del Norte,Producto D,2023-02-19,47448,10861,309,1
+África,Producto D,2023-02-19,17767,16197,172,1
+Europa,Producto A,2023-02-19,48165,14953,320,2
+África,Producto D,2023-02-19,29453,454,480,3
+América del Norte,Producto C,2023-02-19,11744,-1850,402,3
+Europa,Producto C,2023-02-19,38102,10386,139,1
+África,Producto D,2023-02-19,13226,1414,454,2
+América del Sur,Producto C,2023-02-19,28869,-343,255,1
+Europa,Producto C,2023-02-19,23588,18331,306,5
+Europa,Producto D,2023-02-20,14440,5486,181,3
+América del Sur,Producto B,2023-02-20,32709,19327,73,4
+Asia,Producto A,2023-02-20,48788,15046,40,1
+América del Norte,Producto C,2023-02-20,23495,15866,56,5
+Asia,Producto B,2023-02-20,38019,16181,139,3
+África,Producto C,2023-02-20,45948,9894,361,2
+América del Sur,Producto C,2023-02-20,49908,16452,475,3
+Asia,Producto A,2023-02-20,1922,480,342,2
+Europa,Producto C,2023-02-20,28526,3033,119,2
+África,Producto A,2023-02-20,8957,-4017,78,1
+África,Producto A,2023-02-20,49564,16991,67,1
+Asia,Producto A,2023-02-20,34998,3543,115,3
+Asia,Producto B,2023-02-20,44395,4916,309,5
+América del Sur,Producto D,2023-02-20,25031,5143,339,3
+América del Norte,Producto B,2023-02-20,11006,10581,265,4
+Asia,Producto D,2023-02-20,38701,-3093,321,2
+Asia,Producto D,2023-02-20,48063,18308,180,2
+Europa,Producto A,2023-02-20,26939,4216,392,1
+África,Producto C,2023-02-20,21324,3737,482,5
+América del Norte,Producto A,2023-02-20,23867,8757,171,1
+Europa,Producto C,2023-02-20,1203,-826,494,4
+América del Sur,Producto D,2023-02-20,17544,10708,295,3
+América del Sur,Producto A,2023-02-20,16899,18649,80,3
+Asia,Producto C,2023-02-20,30063,4297,264,5
+Asia,Producto B,2023-02-21,26344,-3010,463,1
+América del Sur,Producto C,2023-02-21,4748,596,383,1
+Asia,Producto A,2023-02-21,40486,11374,64,4
+América del Norte,Producto B,2023-02-21,2093,15382,332,3
+Asia,Producto C,2023-02-21,16228,-1225,406,1
+África,Producto C,2023-02-21,21884,16029,12,5
+Asia,Producto C,2023-02-21,26183,13445,35,3
+Europa,Producto C,2023-02-21,17034,15871,322,4
+América del Norte,Producto C,2023-02-21,6710,10706,135,5
+Europa,Producto B,2023-02-21,43500,9645,417,2
+Europa,Producto D,2023-02-21,20259,8668,62,4
+África,Producto B,2023-02-21,36959,10960,207,5
+América del Norte,Producto B,2023-02-21,34457,6357,308,1
+América del Norte,Producto B,2023-02-21,21143,-565,197,2
+América del Norte,Producto D,2023-02-21,3103,14028,195,4
+América del Norte,Producto A,2023-02-21,1365,10804,314,1
+América del Norte,Producto D,2023-02-21,47778,12429,307,2
+África,Producto B,2023-02-21,45535,9626,213,3
+Asia,Producto C,2023-02-21,17103,2951,493,1
+Europa,Producto C,2023-02-21,33510,1449,459,5
+América del Norte,Producto B,2023-02-21,25476,14065,20,4
+Asia,Producto C,2023-02-21,13742,-1801,368,2
+Asia,Producto B,2023-02-21,13391,1768,363,1
+Europa,Producto C,2023-02-21,37940,4130,483,3
+África,Producto D,2023-02-22,29901,18824,155,4
+América del Sur,Producto A,2023-02-22,33001,3633,94,4
+América del Sur,Producto A,2023-02-22,16623,13934,109,1
+Asia,Producto D,2023-02-22,3378,-775,113,3
+Europa,Producto D,2023-02-22,22372,11980,445,2
+América del Sur,Producto B,2023-02-22,45799,1054,55,1
+Asia,Producto B,2023-02-22,39437,-3495,53,2
+África,Producto B,2023-02-22,36503,4053,287,4
+América del Sur,Producto C,2023-02-22,31746,10749,190,2
+Asia,Producto B,2023-02-22,28923,5832,196,3
+Asia,Producto D,2023-02-22,10867,11344,487,5
+América del Norte,Producto A,2023-02-22,42258,17852,123,3
+África,Producto C,2023-02-22,34724,18620,264,2
+América del Norte,Producto B,2023-02-22,10306,9783,390,1
+Europa,Producto C,2023-02-22,40391,-3449,389,4
+América del Norte,Producto C,2023-02-22,15908,10154,39,5
+América del Norte,Producto B,2023-02-22,28081,8799,273,1
+América del Sur,Producto C,2023-02-22,38228,1852,107,1
+Asia,Producto A,2023-02-22,24386,-3551,322,3
+África,Producto D,2023-02-22,47754,17337,376,2
+América del Norte,Producto D,2023-02-22,46406,19840,338,3
+África,Producto A,2023-02-22,29302,19426,124,2
+América del Norte,Producto C,2023-02-22,20212,-2341,285,3
+Europa,Producto B,2023-02-22,36618,2509,497,1
+América del Norte,Producto C,2023-02-23,47067,19277,290,4
+América del Sur,Producto A,2023-02-23,11698,18829,284,2
+Asia,Producto C,2023-02-23,5594,-2279,270,5
+Europa,Producto D,2023-02-23,26525,7444,340,5
+América del Norte,Producto C,2023-02-23,15282,4637,216,1
+África,Producto A,2023-02-23,15334,5490,393,3
+Europa,Producto D,2023-02-23,30179,-2075,337,3
+Europa,Producto C,2023-02-23,7644,4824,220,1
+América del Norte,Producto C,2023-02-23,36618,18488,224,5
+Europa,Producto D,2023-02-23,48701,1240,420,5
+África,Producto B,2023-02-23,33933,11896,49,3
+Europa,Producto D,2023-02-23,44469,-4785,489,2
+África,Producto B,2023-02-23,34687,2299,35,4
+América del Norte,Producto A,2023-02-23,42073,6523,36,2
+Asia,Producto A,2023-02-23,18375,5364,199,5
+Europa,Producto D,2023-02-23,49483,-1847,92,2
+Asia,Producto D,2023-02-23,31926,18834,393,4
+África,Producto A,2023-02-23,37607,-3294,443,2
+Europa,Producto B,2023-02-23,18642,5298,179,2
+América del Sur,Producto A,2023-02-23,24993,-3433,422,2
+Asia,Producto D,2023-02-23,45386,5400,176,2
+Europa,Producto A,2023-02-23,47287,5345,197,1
+Asia,Producto D,2023-02-23,22188,-3872,178,5
+Europa,Producto D,2023-02-23,33596,14894,298,4
+América del Norte,Producto A,2023-02-24,28772,2867,476,5
+Asia,Producto B,2023-02-24,31857,13749,238,1
+América del Sur,Producto C,2023-02-24,11776,583,476,1
+América del Sur,Producto A,2023-02-24,33835,-103,106,1
+África,Producto C,2023-02-24,10788,17102,376,1
+Europa,Producto A,2023-02-24,6660,1001,25,2
+Asia,Producto C,2023-02-24,5478,6113,288,5
+África,Producto B,2023-02-24,9210,-433,144,3
+Asia,Producto B,2023-02-24,11922,4271,35,4
+Europa,Producto A,2023-02-24,37289,9348,361,1
+América del Sur,Producto D,2023-02-24,34340,6703,21,5
+América del Norte,Producto C,2023-02-24,40850,8329,81,1
+América del Sur,Producto D,2023-02-24,39163,-2259,142,1
+África,Producto D,2023-02-24,49175,14404,115,1
+América del Norte,Producto D,2023-02-24,19642,1256,229,1
+África,Producto B,2023-02-24,12094,-4772,382,1
+Europa,Producto A,2023-02-24,23423,19746,462,4
+América del Norte,Producto A,2023-02-24,34418,11678,186,5
+África,Producto B,2023-02-24,6741,-716,291,1
+Europa,Producto B,2023-02-24,47049,8264,142,1
+América del Sur,Producto A,2023-02-24,7838,8390,31,1
+Europa,Producto D,2023-02-24,4262,18185,472,1
+Asia,Producto C,2023-02-24,5996,-4082,278,2
+Europa,Producto C,2023-02-24,45594,6445,421,2
+Europa,Producto C,2023-02-25,23164,-4502,170,3
+Asia,Producto D,2023-02-25,36595,-2191,116,1
+África,Producto A,2023-02-25,31257,-39,288,3
+África,Producto B,2023-02-25,15211,4017,362,4
+Europa,Producto A,2023-02-25,31453,-1221,244,3
+Asia,Producto D,2023-02-25,6232,5050,27,5
+Asia,Producto B,2023-02-25,3217,-2882,251,2
+América del Sur,Producto D,2023-02-25,25229,1391,126,2
+África,Producto C,2023-02-25,15232,-4855,295,1
+América del Norte,Producto C,2023-02-25,26613,8929,291,1
+África,Producto D,2023-02-25,15026,19326,153,4
+África,Producto B,2023-02-25,29554,9917,214,4
+América del Sur,Producto B,2023-02-25,31908,-435,48,5
+América del Norte,Producto A,2023-02-25,20610,11576,426,1
+América del Sur,Producto C,2023-02-25,47646,16571,163,1
+América del Norte,Producto A,2023-02-25,40605,1637,185,4
+Europa,Producto A,2023-02-25,8031,3243,458,4
+América del Norte,Producto D,2023-02-25,48574,-2590,250,4
+América del Sur,Producto D,2023-02-25,26515,-3180,431,2
+África,Producto A,2023-02-25,37484,14348,395,3
+América del Norte,Producto C,2023-02-25,37182,-2479,378,3
+América del Norte,Producto D,2023-02-25,1570,13952,143,1
+Asia,Producto A,2023-02-25,33254,882,55,2
+África,Producto A,2023-02-25,20288,-3133,59,4
+Europa,Producto A,2023-02-26,14288,2465,175,1
+América del Sur,Producto A,2023-02-26,30877,18986,115,2
+Europa,Producto A,2023-02-26,19889,6461,225,5
+África,Producto A,2023-02-26,1917,14583,155,2
+América del Norte,Producto D,2023-02-26,11066,1103,420,1
+América del Norte,Producto C,2023-02-26,30504,7197,434,3
+África,Producto A,2023-02-26,7982,10424,81,4
+América del Norte,Producto B,2023-02-26,40104,11053,485,5
+América del Norte,Producto D,2023-02-26,19062,-4760,339,2
+América del Norte,Producto D,2023-02-26,17999,14824,282,1
+América del Sur,Producto A,2023-02-26,10941,-369,256,1
+América del Sur,Producto D,2023-02-26,24470,4599,455,4
+Asia,Producto A,2023-02-26,46148,6694,422,1
+Europa,Producto C,2023-02-26,22133,19658,195,1
+África,Producto C,2023-02-26,45435,77,79,4
+África,Producto D,2023-02-26,5529,-1232,471,5
+África,Producto D,2023-02-26,18519,4142,159,3
+Asia,Producto B,2023-02-26,13192,2995,255,3
+América del Sur,Producto D,2023-02-26,9566,17813,271,2
+Asia,Producto B,2023-02-26,8226,8276,35,5
+África,Producto C,2023-02-26,38930,14989,432,2
+Europa,Producto C,2023-02-26,22259,7746,149,3
+América del Norte,Producto A,2023-02-26,35087,6475,108,4
+América del Sur,Producto C,2023-02-26,2141,13557,407,1
+América del Sur,Producto B,2023-02-27,5627,1568,287,3
+Asia,Producto D,2023-02-27,48269,-2399,60,5
+América del Sur,Producto A,2023-02-27,3690,14041,160,3
+África,Producto B,2023-02-27,41091,1080,441,5
+África,Producto D,2023-02-27,4255,8854,464,5
+Asia,Producto A,2023-02-27,6213,18709,113,5
+África,Producto C,2023-02-27,37876,-2841,443,2
+Europa,Producto B,2023-02-27,20404,15214,98,4
+Asia,Producto D,2023-02-27,26380,3313,150,3
+Europa,Producto A,2023-02-27,26520,-632,222,4
+América del Norte,Producto A,2023-02-27,20173,-3683,242,1
+Europa,Producto C,2023-02-27,24989,15877,403,3
+América del Norte,Producto D,2023-02-27,43570,8272,192,4
+América del Norte,Producto C,2023-02-27,25519,-3770,260,4
+Europa,Producto C,2023-02-27,23439,12517,18,1
+Asia,Producto D,2023-02-27,12413,18991,88,5
+África,Producto D,2023-02-27,15995,-3699,61,3
+África,Producto D,2023-02-27,24559,10927,395,3
+América del Norte,Producto B,2023-02-27,46351,-3090,418,1
+América del Norte,Producto D,2023-02-27,24513,19466,278,5
+Asia,Producto A,2023-02-27,6021,9904,235,3
+América del Sur,Producto C,2023-02-27,33464,3107,60,3
+Europa,Producto B,2023-02-27,22119,19354,195,3
+América del Norte,Producto D,2023-02-27,30299,13300,43,5
+África,Producto B,2023-02-28,40350,18380,300,1
+Asia,Producto D,2023-02-28,47223,-2243,239,3
+Europa,Producto B,2023-02-28,26517,1464,140,4
+Asia,Producto C,2023-02-28,14117,11562,499,5
+Europa,Producto C,2023-02-28,23250,4088,129,2
+Europa,Producto A,2023-02-28,19950,17746,452,1
+América del Norte,Producto A,2023-02-28,18359,10124,335,4
+Asia,Producto D,2023-02-28,24596,9260,256,3
+Asia,Producto C,2023-02-28,26530,4743,441,2
+África,Producto B,2023-02-28,2262,3683,201,1
+África,Producto B,2023-02-28,41150,-4940,412,5
+América del Norte,Producto B,2023-02-28,23615,4269,332,2
+América del Norte,Producto A,2023-02-28,4327,18065,219,2
+América del Sur,Producto B,2023-02-28,30768,-2105,112,4
+África,Producto A,2023-02-28,29850,10323,338,1
+Europa,Producto A,2023-02-28,43788,7352,381,4
+Asia,Producto D,2023-02-28,17848,6875,469,4
+América del Norte,Producto B,2023-02-28,47830,11969,142,3
+Asia,Producto B,2023-02-28,40542,823,332,5
+Asia,Producto C,2023-02-28,16160,6962,148,2
+América del Sur,Producto D,2023-02-28,34998,-4466,130,1
+África,Producto C,2023-02-28,28230,14846,103,5
+América del Norte,Producto D,2023-02-28,10076,-989,461,5
+Asia,Producto B,2023-02-28,4805,14782,462,1
+América del Norte,Producto A,2023-03-01,32085,-2845,138,5
+Europa,Producto A,2023-03-01,15715,17350,100,3
+América del Sur,Producto A,2023-03-01,6750,18713,101,5
+Europa,Producto A,2023-03-01,49395,1957,72,3
+América del Norte,Producto A,2023-03-01,14232,4196,38,2
+América del Norte,Producto C,2023-03-01,36903,5691,219,2
+África,Producto D,2023-03-01,7953,16709,21,4
+Asia,Producto B,2023-03-01,33093,8327,342,3
+Asia,Producto C,2023-03-01,26500,19902,306,2
+Europa,Producto D,2023-03-01,23418,16087,139,5
+América del Sur,Producto A,2023-03-01,35314,-2294,302,1
+Asia,Producto D,2023-03-01,49225,-4999,182,1
+África,Producto D,2023-03-01,23449,4225,217,3
+Europa,Producto A,2023-03-01,18478,19700,441,4
+Europa,Producto A,2023-03-01,36179,12488,33,5
+África,Producto A,2023-03-01,47881,9820,108,3
+América del Sur,Producto B,2023-03-01,26338,5891,415,1
+África,Producto A,2023-03-01,27899,-3139,365,3
+América del Sur,Producto B,2023-03-01,5145,269,148,5
+África,Producto A,2023-03-01,33101,18327,323,2
+África,Producto B,2023-03-01,3775,6112,183,5
+América del Norte,Producto D,2023-03-01,46961,10699,38,2
+Europa,Producto C,2023-03-01,32647,3320,428,2
+África,Producto D,2023-03-01,46619,11821,152,2
+África,Producto D,2023-03-02,46838,16230,325,3
+Asia,Producto A,2023-03-02,20539,5740,360,1
+Europa,Producto B,2023-03-02,37738,-1871,51,3
+Asia,Producto C,2023-03-02,27616,19465,498,1
+Europa,Producto A,2023-03-02,15119,12285,308,5
+Asia,Producto A,2023-03-02,26159,9380,217,4
+África,Producto A,2023-03-02,38099,6360,339,5
+África,Producto D,2023-03-02,11295,398,442,3
+América del Norte,Producto B,2023-03-02,35710,18062,201,3
+Asia,Producto B,2023-03-02,25685,529,169,1
+América del Sur,Producto C,2023-03-02,26479,17988,73,3
+América del Norte,Producto B,2023-03-02,47172,-1082,252,2
+Asia,Producto B,2023-03-02,34629,12451,267,3
+Asia,Producto A,2023-03-02,43043,11410,161,1
+América del Norte,Producto A,2023-03-02,18033,1937,224,1
+África,Producto D,2023-03-02,37902,18648,331,2
+Asia,Producto A,2023-03-02,45571,2118,175,1
+África,Producto A,2023-03-02,16408,11931,40,4
+América del Norte,Producto A,2023-03-02,18420,5860,380,5
+África,Producto A,2023-03-02,17351,338,241,3
+Europa,Producto D,2023-03-02,5131,7472,291,4
+América del Sur,Producto A,2023-03-02,45825,-1860,38,3
+Asia,Producto C,2023-03-02,12349,2996,204,4
+América del Sur,Producto C,2023-03-02,45254,10489,343,3
+África,Producto C,2023-03-03,39225,12974,265,2
+Asia,Producto C,2023-03-03,39847,9201,290,1
+África,Producto A,2023-03-03,13453,2776,313,1
+Europa,Producto C,2023-03-03,19814,-57,330,2
+América del Norte,Producto A,2023-03-03,19263,7886,446,4
+Asia,Producto D,2023-03-03,13158,3997,332,5
+Europa,Producto C,2023-03-03,16735,2798,355,4
+Europa,Producto B,2023-03-03,16830,15175,411,1
+Asia,Producto C,2023-03-03,48893,12741,402,5
+África,Producto C,2023-03-03,45673,3092,303,3
+Europa,Producto A,2023-03-03,24926,-1775,96,5
+América del Sur,Producto C,2023-03-03,46066,6810,158,4
+Europa,Producto B,2023-03-03,35779,9914,258,2
+África,Producto A,2023-03-03,4373,-2540,330,3
+África,Producto A,2023-03-03,11335,3737,414,4
+América del Sur,Producto D,2023-03-03,24741,8920,292,3
+Europa,Producto D,2023-03-03,11692,14112,371,5
+África,Producto C,2023-03-03,48295,18110,388,1
+Asia,Producto D,2023-03-03,46541,5754,207,4
+América del Norte,Producto D,2023-03-03,35057,18865,53,2
+América del Norte,Producto D,2023-03-03,2447,17814,365,5
+América del Norte,Producto A,2023-03-03,20583,5833,37,4
+Europa,Producto A,2023-03-03,23765,-1886,438,2
+América del Sur,Producto A,2023-03-03,24906,12000,26,4
+África,Producto D,2023-03-04,20567,10360,136,5
+Asia,Producto A,2023-03-04,15139,15028,388,4
+Asia,Producto D,2023-03-04,47525,17797,177,3
+Europa,Producto A,2023-03-04,39230,12587,253,5
+América del Norte,Producto A,2023-03-04,20520,4951,396,4
+Europa,Producto B,2023-03-04,20702,-2435,85,1
+América del Sur,Producto C,2023-03-04,26566,-1826,240,4
+América del Sur,Producto D,2023-03-04,8657,14465,213,3
+África,Producto B,2023-03-04,38688,-2370,459,2
+África,Producto A,2023-03-04,31134,-1839,257,2
+América del Sur,Producto D,2023-03-04,11345,-679,311,2
+América del Sur,Producto A,2023-03-04,42185,8204,223,1
+América del Sur,Producto C,2023-03-04,28413,17653,224,3
+Europa,Producto B,2023-03-04,6208,2099,167,5
+América del Sur,Producto C,2023-03-04,34455,18760,78,2
+Asia,Producto B,2023-03-04,29018,6360,402,3
+América del Norte,Producto A,2023-03-04,46991,5313,94,4
+América del Sur,Producto C,2023-03-04,9080,8502,276,1
+América del Norte,Producto C,2023-03-04,22902,15462,78,3
+Europa,Producto A,2023-03-04,10486,801,108,3
+América del Norte,Producto C,2023-03-04,39862,9130,356,5
+Europa,Producto D,2023-03-04,22158,9271,459,3
+Asia,Producto B,2023-03-04,41460,11075,225,5
+Europa,Producto B,2023-03-04,44856,-849,424,1
+Europa,Producto B,2023-03-05,36871,3911,170,1
+África,Producto D,2023-03-05,36208,13984,432,4
+América del Sur,Producto B,2023-03-05,21519,17559,103,5
+América del Sur,Producto A,2023-03-05,32379,7861,183,5
+Asia,Producto C,2023-03-05,29378,-4334,174,2
+Asia,Producto D,2023-03-05,40892,11667,124,2
+América del Sur,Producto B,2023-03-05,15031,840,229,4
+África,Producto A,2023-03-05,15536,-1435,453,1
+América del Sur,Producto C,2023-03-05,1446,5426,40,2
+África,Producto C,2023-03-05,37683,15977,20,3
+Asia,Producto D,2023-03-05,49555,12849,352,1
+América del Norte,Producto D,2023-03-05,18618,19705,386,3
+Asia,Producto D,2023-03-05,7587,16118,139,5
+Asia,Producto A,2023-03-05,32480,17641,497,1
+Europa,Producto A,2023-03-05,33994,2366,114,4
+Europa,Producto D,2023-03-05,21527,10630,36,5
+Europa,Producto B,2023-03-05,24569,15056,236,5
+Europa,Producto C,2023-03-05,12151,2382,11,3
+África,Producto C,2023-03-05,6558,17971,368,5
+América del Sur,Producto A,2023-03-05,45739,11149,110,2
+América del Norte,Producto C,2023-03-05,33954,10871,30,1
+Asia,Producto B,2023-03-05,48448,8273,67,2
+África,Producto C,2023-03-05,48327,-4008,398,3
+América del Norte,Producto A,2023-03-05,44837,1858,189,3
+África,Producto A,2023-03-06,36303,-2879,438,1
+África,Producto B,2023-03-06,35700,7388,350,5
+Asia,Producto B,2023-03-06,28500,13607,358,4
+América del Sur,Producto C,2023-03-06,3032,15906,29,3
+Europa,Producto C,2023-03-06,2252,14572,264,1
+América del Sur,Producto A,2023-03-06,6509,14621,326,4
+Asia,Producto B,2023-03-06,38842,-864,47,5
+Asia,Producto B,2023-03-06,14900,11727,157,3
+Asia,Producto B,2023-03-06,15523,7653,34,1
+América del Norte,Producto C,2023-03-06,2881,10479,395,1
+América del Sur,Producto B,2023-03-06,34037,16088,130,1
+América del Sur,Producto A,2023-03-06,2630,-177,425,3
+África,Producto A,2023-03-06,21789,-80,35,4
+África,Producto C,2023-03-06,23523,14585,463,1
+África,Producto D,2023-03-06,18958,471,178,5
+Asia,Producto C,2023-03-06,47151,12272,332,1
+América del Sur,Producto D,2023-03-06,49920,4533,234,4
+Asia,Producto B,2023-03-06,44852,2127,10,3
+América del Norte,Producto C,2023-03-06,2695,-1280,316,1
+África,Producto A,2023-03-06,15821,14267,270,1
+Asia,Producto B,2023-03-06,4262,10696,22,5
+Asia,Producto A,2023-03-06,2445,15596,412,5
+América del Norte,Producto B,2023-03-06,17436,18345,405,1
+Europa,Producto C,2023-03-06,10949,13799,57,1
+América del Sur,Producto D,2023-03-07,24963,14385,418,5
+Europa,Producto B,2023-03-07,30932,13122,322,4
+África,Producto D,2023-03-07,7901,-3636,380,2
+Asia,Producto B,2023-03-07,34487,-2292,300,2
+América del Norte,Producto A,2023-03-07,9597,7982,341,1
+América del Norte,Producto A,2023-03-07,7855,12308,103,5
+América del Sur,Producto B,2023-03-07,19678,-4849,270,3
+Europa,Producto D,2023-03-07,9263,19428,491,3
+América del Sur,Producto C,2023-03-07,48288,12296,287,2
+Asia,Producto C,2023-03-07,26805,-2679,368,4
+América del Sur,Producto A,2023-03-07,27143,8865,214,2
+América del Norte,Producto C,2023-03-07,12874,-4505,194,1
+América del Norte,Producto A,2023-03-07,28529,6987,184,4
+África,Producto C,2023-03-07,21866,-2852,447,3
+África,Producto B,2023-03-07,15079,-4444,396,5
+Asia,Producto A,2023-03-07,8243,8393,389,5
+Europa,Producto A,2023-03-07,30872,-3448,318,1
+América del Sur,Producto B,2023-03-07,10018,13504,477,2
+Asia,Producto A,2023-03-07,13100,-1915,424,1
+África,Producto C,2023-03-07,20800,14888,78,5
+América del Sur,Producto C,2023-03-07,27910,-4844,481,3
+África,Producto A,2023-03-07,30437,3926,113,5
+América del Sur,Producto C,2023-03-07,38588,18889,255,4
+Europa,Producto D,2023-03-07,12001,2162,170,5
+Asia,Producto A,2023-03-08,47675,16907,209,5
+América del Sur,Producto B,2023-03-08,20942,18927,225,4
+América del Norte,Producto D,2023-03-08,21862,3055,443,2
+América del Norte,Producto A,2023-03-08,12669,-346,221,5
+América del Sur,Producto B,2023-03-08,16916,17634,25,1
+América del Sur,Producto C,2023-03-08,11878,6468,381,5
+América del Sur,Producto B,2023-03-08,3985,18630,341,1
+América del Norte,Producto D,2023-03-08,33369,-4846,214,4
+América del Norte,Producto C,2023-03-08,9112,2950,374,5
+América del Sur,Producto A,2023-03-08,42235,10323,499,4
+África,Producto C,2023-03-08,19931,12380,48,4
+África,Producto A,2023-03-08,28340,-374,98,2
+Europa,Producto A,2023-03-08,1336,14289,439,5
+Asia,Producto B,2023-03-08,43933,9259,265,1
+África,Producto B,2023-03-08,20363,9873,489,1
+América del Norte,Producto B,2023-03-08,46536,8016,263,5
+África,Producto D,2023-03-08,4968,4369,225,2
+Europa,Producto D,2023-03-08,34678,-4847,377,2
+Europa,Producto B,2023-03-08,49400,2853,312,2
+Asia,Producto D,2023-03-08,17279,7379,181,1
+África,Producto C,2023-03-08,4129,10792,146,4
+América del Norte,Producto C,2023-03-08,39215,17865,497,2
+América del Norte,Producto D,2023-03-08,39897,599,480,1
+América del Sur,Producto D,2023-03-08,6850,13100,393,1
+América del Norte,Producto C,2023-03-09,21588,9785,187,4
+Asia,Producto A,2023-03-09,41214,6049,86,5
+Asia,Producto C,2023-03-09,12949,-4214,197,5
+América del Norte,Producto C,2023-03-09,9519,-632,489,2
+América del Norte,Producto D,2023-03-09,27375,19480,24,2
+América del Sur,Producto C,2023-03-09,34082,9923,301,4
+América del Norte,Producto D,2023-03-09,12737,-728,328,2
+América del Sur,Producto D,2023-03-09,2134,15151,334,4
+América del Sur,Producto B,2023-03-09,11938,994,223,1
+América del Norte,Producto C,2023-03-09,25486,18600,217,2
+Europa,Producto A,2023-03-09,49356,14810,178,1
+Europa,Producto B,2023-03-09,27096,15167,339,3
+América del Sur,Producto D,2023-03-09,42115,16811,289,4
+América del Norte,Producto D,2023-03-09,6592,2011,475,3
+Europa,Producto A,2023-03-09,19108,19436,314,2
+América del Norte,Producto D,2023-03-09,18270,15085,155,1
+América del Norte,Producto C,2023-03-09,28649,9086,272,2
+América del Norte,Producto B,2023-03-09,11997,4261,13,3
+África,Producto D,2023-03-09,34489,13733,99,2
+América del Norte,Producto D,2023-03-09,10104,2011,462,5
+África,Producto A,2023-03-09,1870,18439,69,3
+América del Sur,Producto C,2023-03-09,29684,-3788,320,2
+Europa,Producto D,2023-03-09,40519,18349,25,1
+Europa,Producto A,2023-03-09,35524,9141,236,2
+Europa,Producto D,2023-03-10,31957,4344,483,1
+Europa,Producto A,2023-03-10,34885,1704,475,5
+Europa,Producto A,2023-03-10,45369,10896,38,2
+Europa,Producto C,2023-03-10,36596,18817,160,5
+Europa,Producto D,2023-03-10,30866,13895,254,3
+América del Sur,Producto C,2023-03-10,31676,-4857,279,1
+América del Norte,Producto A,2023-03-10,48764,5681,88,3
+Asia,Producto B,2023-03-10,14878,2367,442,1
+África,Producto D,2023-03-10,40760,-1772,298,5
+Asia,Producto B,2023-03-10,28559,-418,162,4
+Asia,Producto D,2023-03-10,47546,8147,286,2
+América del Norte,Producto C,2023-03-10,7771,6397,410,5
+América del Norte,Producto C,2023-03-10,17526,1031,288,1
+América del Norte,Producto C,2023-03-10,30896,-757,66,1
+Europa,Producto C,2023-03-10,32923,8647,474,1
+América del Sur,Producto C,2023-03-10,37203,6496,195,1
+Europa,Producto B,2023-03-10,40390,4549,407,2
+América del Sur,Producto C,2023-03-10,13852,10146,102,3
+América del Sur,Producto A,2023-03-10,48574,14097,285,4
+Asia,Producto A,2023-03-10,44391,-815,167,2
+Asia,Producto B,2023-03-10,2848,7486,284,1
+América del Sur,Producto D,2023-03-10,32027,2328,190,2
+América del Sur,Producto A,2023-03-10,36464,16017,368,5
+Europa,Producto D,2023-03-10,35485,14576,449,1
+Europa,Producto B,2023-03-11,20456,11684,86,4
+Asia,Producto D,2023-03-11,10259,12107,475,1
+América del Norte,Producto D,2023-03-11,36554,17078,160,4
+América del Sur,Producto D,2023-03-11,47922,-1990,455,4
+Europa,Producto D,2023-03-11,14409,555,247,3
+Asia,Producto B,2023-03-11,4791,-4933,298,3
+Europa,Producto A,2023-03-11,26864,7185,240,2
+América del Sur,Producto C,2023-03-11,37639,13890,497,2
+América del Sur,Producto D,2023-03-11,35574,-3463,27,4
+África,Producto A,2023-03-11,18888,11781,82,1
+América del Norte,Producto A,2023-03-11,20692,6549,426,5
+África,Producto B,2023-03-11,24501,680,425,5
+Asia,Producto A,2023-03-11,14304,16209,198,1
+Europa,Producto B,2023-03-11,28527,3747,447,1
+Asia,Producto D,2023-03-11,19074,17432,26,3
+América del Sur,Producto D,2023-03-11,16549,10116,28,5
+África,Producto C,2023-03-11,30963,15045,228,4
+África,Producto C,2023-03-11,26920,-2059,335,2
+África,Producto C,2023-03-11,31826,5849,492,3
+Asia,Producto A,2023-03-11,37071,2067,129,5
+América del Sur,Producto D,2023-03-11,17061,16475,110,1
+Europa,Producto B,2023-03-11,29810,5151,43,5
+Europa,Producto C,2023-03-11,48966,12985,93,4
+Asia,Producto B,2023-03-11,23800,12864,418,3
+África,Producto B,2023-03-12,44423,17614,205,1
+América del Norte,Producto C,2023-03-12,42692,14660,339,4
+Asia,Producto D,2023-03-12,10940,10126,211,2
+Asia,Producto C,2023-03-12,4924,10613,353,3
+América del Sur,Producto B,2023-03-12,29054,1447,350,4
+Europa,Producto C,2023-03-12,10783,499,20,4
+Asia,Producto B,2023-03-12,38253,1273,356,1
+Asia,Producto B,2023-03-12,46397,-3701,409,2
+África,Producto C,2023-03-12,14233,17202,227,4
+África,Producto A,2023-03-12,46669,1701,454,3
+América del Norte,Producto C,2023-03-12,25484,-6,262,4
+América del Sur,Producto A,2023-03-12,26068,10627,231,5
+América del Norte,Producto B,2023-03-12,1191,2489,392,3
+África,Producto B,2023-03-12,26074,3269,378,3
+Europa,Producto A,2023-03-12,5917,-2169,89,4
+África,Producto B,2023-03-12,39599,6602,16,1
+América del Sur,Producto A,2023-03-12,26832,14105,281,3
+África,Producto A,2023-03-12,43928,6819,236,5
+América del Sur,Producto B,2023-03-12,21706,12916,25,1
+América del Sur,Producto D,2023-03-12,14682,19813,433,1
+América del Sur,Producto A,2023-03-12,27762,16637,21,1
+América del Sur,Producto C,2023-03-12,24383,-3004,300,3
+América del Sur,Producto C,2023-03-12,28796,16695,250,1
+Europa,Producto B,2023-03-12,24666,6619,30,4
+América del Norte,Producto D,2023-03-13,26662,11661,187,1
+Asia,Producto B,2023-03-13,46159,-1911,436,5
+América del Norte,Producto D,2023-03-13,35642,-4477,237,2
+América del Sur,Producto A,2023-03-13,42830,15659,282,5
+Europa,Producto A,2023-03-13,38531,7410,297,3
+África,Producto A,2023-03-13,11234,16749,306,1
+Europa,Producto A,2023-03-13,10221,10732,143,1
+América del Sur,Producto C,2023-03-13,12410,14506,481,4
+Europa,Producto C,2023-03-13,15519,3167,292,1
+Europa,Producto B,2023-03-13,2051,190,413,5
+América del Sur,Producto D,2023-03-13,45993,-425,162,3
+Europa,Producto A,2023-03-13,10765,2727,75,2
+Asia,Producto A,2023-03-13,12382,10378,146,1
+Asia,Producto D,2023-03-13,13580,-3203,101,2
+Europa,Producto D,2023-03-13,33323,-2869,446,1
+África,Producto B,2023-03-13,45757,18706,326,3
+América del Sur,Producto D,2023-03-13,12939,9900,431,5
+Asia,Producto A,2023-03-13,30964,17884,268,3
+África,Producto A,2023-03-13,1307,12199,477,2
+Europa,Producto A,2023-03-13,4359,6332,463,1
+África,Producto A,2023-03-13,30648,1666,112,2
+América del Norte,Producto A,2023-03-13,36944,11526,490,5
+Asia,Producto B,2023-03-13,35019,7479,64,3
+Europa,Producto A,2023-03-13,39134,-3590,266,2
+América del Sur,Producto B,2023-03-14,28323,7665,110,2
+Europa,Producto A,2023-03-14,7226,-4466,207,5
+América del Sur,Producto C,2023-03-14,22689,-1636,310,1
+Europa,Producto C,2023-03-14,31971,12416,235,2
+África,Producto C,2023-03-14,26954,-1658,440,5
+África,Producto C,2023-03-14,25423,17469,472,1
+África,Producto B,2023-03-14,31391,8465,246,1
+América del Norte,Producto B,2023-03-14,15330,-500,35,3
+América del Sur,Producto D,2023-03-14,5891,-3828,130,5
+África,Producto A,2023-03-14,5992,15901,407,1
+América del Norte,Producto C,2023-03-14,2961,3007,191,3
+América del Sur,Producto B,2023-03-14,13497,-3359,208,4
+Europa,Producto A,2023-03-14,33551,11855,311,5
+América del Norte,Producto A,2023-03-14,11848,14324,264,4
+Asia,Producto B,2023-03-14,14255,3738,131,1
+América del Norte,Producto C,2023-03-14,5567,-274,40,5
+América del Norte,Producto D,2023-03-14,49847,6789,481,3
+América del Sur,Producto A,2023-03-14,40281,19054,324,1
+Europa,Producto D,2023-03-14,49003,6017,488,5
+Asia,Producto C,2023-03-14,21389,15107,294,5
+África,Producto C,2023-03-14,45523,-4637,115,4
+África,Producto D,2023-03-14,44919,5358,233,1
+América del Norte,Producto C,2023-03-14,17567,-1691,282,3
+América del Sur,Producto A,2023-03-14,4358,11929,407,3
+América del Sur,Producto D,2023-03-15,23999,-1760,241,1
+África,Producto C,2023-03-15,43358,1665,429,1
+Asia,Producto D,2023-03-15,11988,7921,265,2
+Europa,Producto A,2023-03-15,41446,-3064,451,4
+Asia,Producto C,2023-03-15,32521,8968,33,1
+Europa,Producto A,2023-03-15,6698,6197,118,1
+África,Producto C,2023-03-15,2273,6998,200,2
+Europa,Producto B,2023-03-15,28543,-4118,356,2
+América del Sur,Producto C,2023-03-15,32349,15224,34,5
+América del Norte,Producto D,2023-03-15,12241,1923,196,3
+América del Norte,Producto C,2023-03-15,10497,15995,297,4
+África,Producto A,2023-03-15,42875,8708,125,5
+América del Sur,Producto A,2023-03-15,33703,204,347,1
+Asia,Producto C,2023-03-15,45041,2288,375,2
+América del Sur,Producto D,2023-03-15,32954,-1797,411,3
+América del Norte,Producto B,2023-03-15,9002,-2756,46,5
+América del Norte,Producto D,2023-03-15,5247,-4982,291,3
+América del Sur,Producto B,2023-03-15,42988,12025,146,2
+América del Sur,Producto A,2023-03-15,22698,-1917,236,5
+América del Norte,Producto D,2023-03-15,20738,16584,329,5
+Asia,Producto B,2023-03-15,11703,3521,337,3
+África,Producto C,2023-03-15,49240,12249,413,2
+África,Producto A,2023-03-15,18570,-4227,191,1
+América del Sur,Producto C,2023-03-15,13392,-268,371,5
+África,Producto A,2023-03-16,45724,14902,95,1
+América del Norte,Producto D,2023-03-16,33299,1795,476,2
+América del Norte,Producto D,2023-03-16,16641,1984,423,5
+América del Sur,Producto A,2023-03-16,14998,-2433,62,5
+América del Sur,Producto A,2023-03-16,7305,11121,357,1
+América del Sur,Producto A,2023-03-16,33726,-3326,364,4
+Asia,Producto D,2023-03-16,19782,5875,244,1
+África,Producto B,2023-03-16,13721,6572,456,1
+América del Sur,Producto C,2023-03-16,40763,-4261,276,4
+Europa,Producto C,2023-03-16,13427,-3455,296,2
+Europa,Producto D,2023-03-16,47550,4327,442,2
+América del Norte,Producto C,2023-03-16,21566,127,496,5
+África,Producto A,2023-03-16,3230,18331,109,3
+América del Sur,Producto B,2023-03-16,7511,18004,487,3
+Europa,Producto C,2023-03-16,43229,4065,96,5
+África,Producto B,2023-03-16,27177,15939,412,3
+América del Norte,Producto A,2023-03-16,5765,5492,405,1
+Asia,Producto C,2023-03-16,21354,17029,24,1
+África,Producto D,2023-03-16,24929,8749,424,4
+África,Producto B,2023-03-16,29820,18508,436,4
+Asia,Producto A,2023-03-16,47040,4045,110,5
+África,Producto B,2023-03-16,30523,15116,174,5
+América del Norte,Producto C,2023-03-16,6552,13667,472,5
+América del Norte,Producto C,2023-03-16,1627,4521,38,1
+Asia,Producto D,2023-03-17,12989,3669,123,3
+América del Sur,Producto A,2023-03-17,14780,6283,116,5
+Europa,Producto A,2023-03-17,7589,1998,419,5
+América del Sur,Producto D,2023-03-17,35812,8440,373,1
+África,Producto D,2023-03-17,29128,7697,139,1
+Europa,Producto A,2023-03-17,46939,8733,93,1
+Asia,Producto B,2023-03-17,39652,16797,280,3
+Asia,Producto B,2023-03-17,28790,-3731,253,5
+Europa,Producto D,2023-03-17,41953,2868,397,2
+América del Norte,Producto B,2023-03-17,1249,7373,223,2
+Europa,Producto A,2023-03-17,20309,13987,315,5
+África,Producto C,2023-03-17,26901,961,175,5
+América del Norte,Producto C,2023-03-17,24576,10734,288,5
+Asia,Producto B,2023-03-17,32508,4661,68,5
+Europa,Producto D,2023-03-17,10175,3569,99,3
+América del Sur,Producto D,2023-03-17,26464,2557,380,2
+América del Sur,Producto D,2023-03-17,17260,13064,340,4
+África,Producto D,2023-03-17,36440,3433,421,2
+América del Sur,Producto D,2023-03-17,30546,10653,203,2
+Europa,Producto B,2023-03-17,41047,4111,132,1
+Europa,Producto C,2023-03-17,42430,682,145,5
+América del Sur,Producto C,2023-03-17,2987,10479,422,5
+Europa,Producto B,2023-03-17,26105,10047,148,5
+África,Producto D,2023-03-17,13948,3084,238,1
+América del Norte,Producto B,2023-03-18,14026,16751,283,3
+África,Producto C,2023-03-18,3773,11453,448,3
+África,Producto A,2023-03-18,46927,15308,59,4
+Europa,Producto B,2023-03-18,10878,1200,407,3
+América del Norte,Producto D,2023-03-18,43946,5278,127,3
+Europa,Producto C,2023-03-18,11377,-2993,211,5
+Asia,Producto C,2023-03-18,8347,10802,492,2
+Europa,Producto C,2023-03-18,34776,8329,402,3
+Europa,Producto C,2023-03-18,4783,19503,492,3
+Europa,Producto D,2023-03-18,5298,-2221,404,1
+América del Norte,Producto A,2023-03-18,5668,16304,200,4
+Europa,Producto C,2023-03-18,21671,-4245,373,1
+América del Norte,Producto B,2023-03-18,35820,1495,469,5
+América del Sur,Producto A,2023-03-18,35484,5187,332,2
+Asia,Producto C,2023-03-18,34078,17319,190,4
+América del Norte,Producto A,2023-03-18,48159,4513,432,1
+América del Sur,Producto B,2023-03-18,21922,13714,87,3
+América del Norte,Producto C,2023-03-18,35028,17089,449,3
+América del Norte,Producto B,2023-03-18,46925,19685,421,4
+Asia,Producto D,2023-03-18,21316,12400,84,3
+África,Producto C,2023-03-18,12460,2347,304,1
+África,Producto C,2023-03-18,17968,9249,290,1
+América del Norte,Producto C,2023-03-18,31266,9879,30,3
+Europa,Producto C,2023-03-18,31209,9057,403,3
+América del Sur,Producto D,2023-03-19,25000,7057,180,5
+Europa,Producto C,2023-03-19,15011,19600,24,2
+Europa,Producto A,2023-03-19,3866,-62,220,4
+América del Norte,Producto C,2023-03-19,48133,14222,57,1
+América del Norte,Producto D,2023-03-19,6898,-4263,95,4
+América del Norte,Producto C,2023-03-19,19395,1200,158,5
+América del Norte,Producto A,2023-03-19,40019,3371,197,1
+África,Producto D,2023-03-19,38707,11615,381,5
+América del Norte,Producto D,2023-03-19,5006,13301,489,5
+África,Producto A,2023-03-19,35393,3534,315,3
+África,Producto A,2023-03-19,11956,17302,160,4
+América del Norte,Producto A,2023-03-19,31663,-2377,150,4
+Asia,Producto A,2023-03-19,7078,3646,78,3
+América del Sur,Producto A,2023-03-19,30631,8543,269,4
+Europa,Producto D,2023-03-19,31140,17785,485,3
+África,Producto D,2023-03-19,42691,7817,343,1
+América del Sur,Producto C,2023-03-19,4961,18456,465,5
+Asia,Producto C,2023-03-19,30277,13660,18,5
+Europa,Producto B,2023-03-19,42574,18777,130,4
+Europa,Producto C,2023-03-19,32417,15258,380,2
+África,Producto C,2023-03-19,23484,15914,428,5
+América del Norte,Producto A,2023-03-19,19103,18548,110,3
+Asia,Producto A,2023-03-19,30345,-503,158,2
+África,Producto C,2023-03-19,47326,2933,451,2
+Asia,Producto B,2023-03-20,40454,13519,155,5
+América del Norte,Producto A,2023-03-20,2587,1727,362,5
+América del Norte,Producto C,2023-03-20,43571,7156,465,5
+África,Producto C,2023-03-20,22031,12949,252,3
+América del Norte,Producto D,2023-03-20,27212,11692,250,2
+América del Sur,Producto B,2023-03-20,11350,19918,346,4
+Europa,Producto D,2023-03-20,19816,3627,52,3
+África,Producto B,2023-03-20,21288,3368,104,1
+Asia,Producto A,2023-03-20,30432,11522,235,5
+América del Sur,Producto B,2023-03-20,45222,11577,15,2
+África,Producto C,2023-03-20,49617,14641,223,3
+América del Norte,Producto C,2023-03-20,7837,10577,215,1
+América del Norte,Producto B,2023-03-20,35217,14619,76,3
+América del Norte,Producto B,2023-03-20,21884,8472,405,3
+América del Norte,Producto B,2023-03-20,6454,-4058,109,4
+Asia,Producto D,2023-03-20,10424,-380,21,4
+América del Sur,Producto B,2023-03-20,37885,17104,246,3
+Europa,Producto A,2023-03-20,42637,11195,331,1
+Asia,Producto D,2023-03-20,44618,6154,267,2
+Asia,Producto D,2023-03-20,19412,1353,408,2
+Europa,Producto B,2023-03-20,48111,16341,416,5
+Europa,Producto A,2023-03-20,40613,4145,422,5
+América del Norte,Producto D,2023-03-20,21142,4494,346,2
+Asia,Producto C,2023-03-20,38392,8562,489,3
+África,Producto D,2023-03-21,9848,14765,144,3
+Europa,Producto B,2023-03-21,14136,17223,231,4
+Europa,Producto A,2023-03-21,1589,-2120,165,4
+América del Sur,Producto B,2023-03-21,21908,16271,151,5
+África,Producto C,2023-03-21,7509,-4455,437,2
+África,Producto C,2023-03-21,41461,9132,167,3
+Europa,Producto C,2023-03-21,43222,8304,474,2
+América del Norte,Producto B,2023-03-21,45476,-3073,425,1
+América del Sur,Producto D,2023-03-21,46710,15536,335,2
+África,Producto B,2023-03-21,10968,11388,380,1
+Europa,Producto A,2023-03-21,3462,6673,353,4
+África,Producto D,2023-03-21,10460,16917,271,4
+América del Sur,Producto C,2023-03-21,34783,10372,292,5
+América del Sur,Producto B,2023-03-21,10275,16762,347,2
+Asia,Producto C,2023-03-21,29677,17617,353,2
+Europa,Producto C,2023-03-21,14269,-2337,238,1
+América del Sur,Producto A,2023-03-21,1406,10033,385,4
+Asia,Producto D,2023-03-21,8384,4465,289,1
+Asia,Producto A,2023-03-21,23553,-1674,367,4
+África,Producto A,2023-03-21,25366,-1341,299,1
+África,Producto A,2023-03-21,45036,12515,177,4
+Asia,Producto C,2023-03-21,18369,-237,56,1
+África,Producto A,2023-03-21,12795,18121,472,4
+América del Sur,Producto A,2023-03-21,5485,5828,212,1
+América del Norte,Producto D,2023-03-22,42669,9820,223,2
+América del Sur,Producto D,2023-03-22,3618,6221,255,5
+Asia,Producto A,2023-03-22,31143,6211,33,1
+Asia,Producto D,2023-03-22,30425,8569,330,5
+América del Sur,Producto D,2023-03-22,23673,92,283,2
+África,Producto A,2023-03-22,10603,1022,53,2
+África,Producto C,2023-03-22,40696,7569,341,4
+Asia,Producto A,2023-03-22,6368,14543,322,5
+Europa,Producto D,2023-03-22,5621,8515,372,3
+África,Producto C,2023-03-22,15719,1159,165,4
+América del Sur,Producto B,2023-03-22,30227,18702,497,5
+África,Producto C,2023-03-22,44894,8223,389,1
+América del Sur,Producto D,2023-03-22,8566,3445,208,1
+Asia,Producto C,2023-03-22,13306,16691,416,2
+África,Producto A,2023-03-22,25042,19904,478,3
+América del Sur,Producto B,2023-03-22,16086,6022,171,1
+Asia,Producto B,2023-03-22,18387,-1956,404,5
+Europa,Producto B,2023-03-22,28042,4612,479,5
+América del Sur,Producto D,2023-03-22,24888,636,243,1
+Europa,Producto D,2023-03-22,27514,6593,172,5
+Europa,Producto B,2023-03-22,19323,11179,125,5
+América del Norte,Producto C,2023-03-22,19019,-2108,102,2
+África,Producto B,2023-03-22,10890,16672,51,3
+América del Sur,Producto C,2023-03-22,41863,812,293,2
+Europa,Producto C,2023-03-23,46487,-4346,388,3
+América del Norte,Producto D,2023-03-23,11283,16865,219,5
+Asia,Producto C,2023-03-23,19279,12143,215,3
+América del Sur,Producto B,2023-03-23,47999,18166,475,5
+Europa,Producto D,2023-03-23,23908,-3202,229,5
+África,Producto A,2023-03-23,48466,159,289,2
+América del Norte,Producto A,2023-03-23,38952,6618,145,2
+Europa,Producto D,2023-03-23,36170,3446,115,4
+África,Producto B,2023-03-23,38663,16646,127,1
+Europa,Producto A,2023-03-23,45172,-1177,246,4
+América del Sur,Producto A,2023-03-23,48929,11099,318,4
+América del Sur,Producto C,2023-03-23,10343,13260,465,3
+América del Sur,Producto C,2023-03-23,11637,17538,397,5
+América del Norte,Producto B,2023-03-23,35724,2787,484,5
+América del Sur,Producto D,2023-03-23,40791,6196,109,5
+África,Producto B,2023-03-23,30134,15900,270,1
+Europa,Producto D,2023-03-23,47830,15118,490,3
+Asia,Producto A,2023-03-23,48101,17356,314,3
+África,Producto C,2023-03-23,4907,18023,363,5
+África,Producto B,2023-03-23,34575,16740,295,4
+América del Sur,Producto B,2023-03-23,47799,1380,337,1
+América del Norte,Producto D,2023-03-23,5827,12392,112,4
+Europa,Producto D,2023-03-23,31607,15698,72,2
+América del Norte,Producto B,2023-03-23,14699,4702,184,3
+Europa,Producto D,2023-03-24,38292,13892,291,3
+Europa,Producto B,2023-03-24,48961,16142,450,4
+América del Norte,Producto B,2023-03-24,26883,-2318,302,1
+África,Producto B,2023-03-24,49991,18695,235,3
+Europa,Producto A,2023-03-24,6313,-4011,16,4
+América del Norte,Producto D,2023-03-24,14598,7476,136,1
+Europa,Producto C,2023-03-24,46826,3446,433,4
+Asia,Producto C,2023-03-24,29807,-289,101,1
+África,Producto D,2023-03-24,5887,1479,432,5
+América del Sur,Producto B,2023-03-24,4854,18348,199,1
+Europa,Producto C,2023-03-24,46226,8161,368,2
+Asia,Producto C,2023-03-24,15536,9635,485,5
+América del Sur,Producto D,2023-03-24,4558,3075,471,4
+América del Sur,Producto C,2023-03-24,10772,15836,62,5
+Europa,Producto B,2023-03-24,37343,19831,251,5
+América del Norte,Producto D,2023-03-24,36186,-3993,495,4
+Europa,Producto B,2023-03-24,37966,17880,141,4
+Asia,Producto C,2023-03-24,34769,2688,499,2
+América del Sur,Producto C,2023-03-24,40887,5763,475,4
+Europa,Producto B,2023-03-24,20229,-1092,373,3
+América del Norte,Producto A,2023-03-24,10673,14187,121,3
+Europa,Producto C,2023-03-24,28877,6957,418,2
+África,Producto A,2023-03-24,32601,-621,16,1
+América del Norte,Producto C,2023-03-24,39084,11482,239,1
+Asia,Producto A,2023-03-25,17244,19772,165,3
+América del Sur,Producto A,2023-03-25,28356,-4123,206,4
+Europa,Producto A,2023-03-25,17806,10585,332,2
+América del Norte,Producto B,2023-03-25,24099,13252,373,1
+África,Producto A,2023-03-25,45641,14049,232,1
+América del Norte,Producto A,2023-03-25,38034,12772,376,5
+África,Producto A,2023-03-25,41317,13799,499,3
+Asia,Producto C,2023-03-25,20094,-2363,259,4
